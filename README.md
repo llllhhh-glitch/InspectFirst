@@ -150,6 +150,6 @@ Module tests use test configuration and H2. The integration suite uses real HTTP
 
 The catalogue contains 45 products across nine categories and 179 checks. Product photos are mapped in `frontend/src/data/product-images.json`; check image metadata is stored in MySQL. See the [catalogue import guide](database/catalog-2026-11/README.md) and [check image guide](database/check-examples/README.md).
 
-Guides support user observations rather than professional authentication. Illustrations do not depict a seller's actual item. Email verification, password recovery, and shared multi-instance sessions are not implemented. Docker deployment has not been verified.
+Guides support user observations rather than professional authentication. Illustrations do not depict a seller's actual item. Email verification, password recovery, and shared multi-instance sessions are not implemented. Docker Compose setup and verification details are documented in deploy/README.md.
 
 Private configuration, backups, credentials, and user attachments under `.local/` are not source deliverables.
