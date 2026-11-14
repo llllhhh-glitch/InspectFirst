@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="InspectFirst (local MySQL)" type="Application" factoryName="Application">
+    <envs>
+      <env name="SPRING_CONFIG_ADDITIONAL_LOCATION" value="file:/Users/leonluo/Desktop/InspectFirst/.local/guide-db.properties" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.inspectfirst.guide.GuideApplication" />
+    <module name="guide-service" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

@@ -1,0 +1,39 @@
+server:
+  address: 127.0.0.1
+  port: ${REPORT_PORT:8089}
+spring:
+  datasource:
+    url: ${REPORT_DB_URL:jdbc:mysql://127.0.0.1:3306/report_db?connectionTimeZone=UTC}
+    username: ${REPORT_DB_USER:inspectfirst_report}
+    password: ${REPORT_DB_PASSWORD}
+  sql:
+    init:
+      mode: never
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 6MB
+  kafka:
+    bootstrap-servers: ${KAFKA_SERVERS:127.0.0.1:9092}
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      acks: all
+      properties:
+        delivery.timeout.ms: 10000
+        request.timeout.ms: 5000
+        max.block.ms: 3000
+        max.request.size: 8388608
+    consumer:
+      group-id: inspectfirst-report-v1
+      auto-offset-reset: earliest
+      enable-auto-commit: false
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      properties:
+        max.partition.fetch.bytes: 8388608
+        fetch.max.bytes: 16777216
+    listener:
+      ack-mode: record
+inspectfirst:
+  events-enabled: ${EVENTS_ENABLED:true}

@@ -1,0 +1,19 @@
+server:
+  address: 127.0.0.1
+  port: ${GUIDE_PORT:8086}
+spring:
+  datasource:
+    url: ${GUIDE_DB_URL:jdbc:mysql://127.0.0.1:3306/check_guide_db?connectionTimeZone=UTC}
+    username: ${GUIDE_DB_USER:inspectfirst_guide}
+    password: ${GUIDE_DB_PASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+  sql:
+    init:
+      mode: ${GUIDE_INIT_MODE:never}
+      encoding: UTF-8
+  mvc:
+    problemdetails:
+      enabled: true

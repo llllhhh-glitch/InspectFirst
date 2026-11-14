@@ -1,0 +1,11 @@
+{
+  "images": 45,
+  "checks": [
+    "45 local image requests return image content and match stored SHA-256",
+    "45 files decode successfully",
+    "45 unique image hashes",
+    "45 catalogue model mappings",
+    "Frontend production build passed"
+  ],
+  "bytes": 9148533
+}

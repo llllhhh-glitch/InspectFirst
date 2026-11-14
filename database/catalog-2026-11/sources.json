@@ -1,0 +1,442 @@
+{
+  "iphone-used": {
+    "title": "Buying a pre-owned iPhone",
+    "url": "https://support.apple.com/en-ie/104999",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Account lock, repair history and basic buyer checks; not an authenticity certificate.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "iphone13": {
+    "title": "iPhone 13 - Technical specifications",
+    "url": "https://support.apple.com/en-ie/111872",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Lightning, cameras and supported controls.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "iphone14": {
+    "title": "iPhone 14 - Technical specifications",
+    "url": "https://support.apple.com/en-ie/111850",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Lightning, cameras and supported controls; regional variants differ.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "iphone15": {
+    "title": "iPhone 15 - Technical specifications",
+    "url": "https://support.apple.com/en-euro/111831",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "USB-C and camera configuration. Search-index text reviewed; direct follow-up fetch rate-limited.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "ipad-id": {
+    "title": "Identify your iPad model",
+    "url": "https://support.apple.com/en-us/108043",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Model-number mapping only; not a battery or repair-history test.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "ipad10": {
+    "title": "iPad (10th generation) specifications",
+    "url": "https://support.apple.com/kb/SP884?locale=en_US",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "USB-C and top-button Touch ID; supported accessories depend on generation.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "ipadair5": {
+    "title": "iPad Air (5th generation) specifications",
+    "url": "https://support.apple.com/en-ie/111887",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "M1-generation Air, USB-C and top-button Touch ID.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "macpro14": {
+    "title": "MacBook Pro 14-inch 2021 support",
+    "url": "https://support.apple.com/en-sg/docs/mac/300451",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Exact model support and technical-document index.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "gucci-auth": {
+    "title": "Gucci official FAQs",
+    "url": "https://www.gucci.com/us/en/st/faq",
+    "publisher": "Gucci",
+    "reviewedOn": "2026-11-06",
+    "scope": "Official distribution, repair and counterfeit guidance; not private-resale authentication.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "ipad9": {
+    "title": "iPad (9th generation) specifications",
+    "url": "https://support.apple.com/en-us/111898",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Lightning and Home-button Touch ID configuration.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "members": {
+    "title": "Samsung Members diagnostics",
+    "url": "https://www.samsung.com/us/support/answer/ANS10003632/",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "Built-in interactive diagnostics on supported Galaxy phones/tablets; menu varies.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "s23": {
+    "title": "Galaxy S23 SM-S911B update documentation",
+    "url": "https://doc.samsungmobile.com/SM-S911B/026082230225/eng.html",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "Model-family identification; not grading or proof of ownership.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "s24": {
+    "title": "Galaxy S24 SM-S921B",
+    "url": "https://www.samsung.com/in/business/smartphones/galaxy-s/galaxy-s24-sm-s921bzkqins/",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "Regional model-family reference; options differ by market.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "tabs8": {
+    "title": "Galaxy Tab S8 / S8+ Wi-Fi specification sheet",
+    "url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/spec-sheet/Galaxy_Tab_S8_S8plus_Spec_Sheet_Wi-Fi.pdf",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "SM-X700 base Tab S8; do not apply S8+ specifications to the base model.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "tabs9": {
+    "title": "Galaxy Tab S9 SM-X710 support",
+    "url": "https://www.samsung.com/mx/support/model.SM-X710NZEEMXO/",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "Base Wi-Fi model support and manuals; regional bundle may differ.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "airpods-id": {
+    "title": "Identify your AirPods",
+    "url": "https://support.apple.com/en-us/109525",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Buds/case model identification. Matching numbers are not proof of authenticity.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "airpods-owner": {
+    "title": "Remove a device from another Apple Account",
+    "url": "https://support.apple.com/en-euro/102620",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Seller must remove account association; resetting alone is not a substitute.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xm4": {
+    "title": "WH-1000XM4 parts and controls",
+    "url": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752814.html",
+    "publisher": "Sony",
+    "reviewedOn": "2026-11-06",
+    "scope": "Control panel, charging port and external parts; editorial functional checks added.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xm5": {
+    "title": "WH-1000XM5 Help Guide",
+    "url": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/index.html",
+    "publisher": "Sony",
+    "reviewedOn": "2026-11-06",
+    "scope": "Model-specific operation and troubleshooting; app names change.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xm5-anc": {
+    "title": "WH-1000XM5 noise cancelling",
+    "url": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/contents/TP1000534716.html",
+    "publisher": "Sony",
+    "reviewedOn": "2026-11-06",
+    "scope": "ANC limitations and fit; cancellation does not mean silence.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "qc45": {
+    "title": "QuietComfort 45 owner guide",
+    "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/pdf/869288_og_quietcomfort-45_ml.pdf",
+    "publisher": "Bose",
+    "reviewedOn": "2026-11-06",
+    "scope": "Buttons, Quiet/Aware modes, charging and audio connections.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "m1": {
+    "title": "MacBook Air (M1, 2020) specifications",
+    "url": "https://support.apple.com/en-us/111883",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "M1 family, two USB-C/Thunderbolt ports; listing configuration must be verified.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "m2": {
+    "title": "MacBook Air (M2, 2022) specifications",
+    "url": "https://support.apple.com/en-sg/111867",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "M2 family, MagSafe and USB-C charging; search-index text reviewed.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "mac-diagnostics": {
+    "title": "Use Apple Diagnostics",
+    "url": "https://support.apple.com/en-ie/102550",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Startup hardware diagnostics; passing does not guarantee future reliability.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "mac-lock": {
+    "title": "Activation Lock for Mac",
+    "url": "https://support.apple.com/en-ie/102541",
+    "publisher": "Apple",
+    "reviewedOn": "2026-11-06",
+    "scope": "Owner account removal on supported Macs; not proof of legal title.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "dell": {
+    "title": "Latitude xx20 diagnostics and BIOS administrator password",
+    "url": "https://www.dell.com/support/kbdoc/en-au/000188626/epsa-diagnostics-won-t-run-from-the-one-time-boot-menu-on-a-latitude-xx20-laptop-without-bios-administrator-password",
+    "publisher": "Dell",
+    "reviewedOn": "2026-11-06",
+    "scope": "Includes regular Latitude 5420. A BIOS password can block diagnostics; not the older E5420 or Rugged manual.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "thinkpad": {
+    "title": "ThinkPad T14 Gen 2 Intel PSREF",
+    "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.html",
+    "publisher": "Lenovo",
+    "reviewedOn": "2026-11-06",
+    "scope": "Intel generation configuration/options; AMD and touch/non-touch variants differ.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "billy": {
+    "title": "BILLY bookcase, white, 80 x 28 x 202 cm",
+    "url": "https://www.ikea.com/sg/en/p/billy-bookcase-white-00522047/",
+    "publisher": "IKEA",
+    "reviewedOn": "2026-11-06",
+    "scope": "Current Singapore article 005.220.47. Earlier assembly editions may use different back-panel fittings.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "kallax": {
+    "title": "KALLAX shelving unit, white, 77 x 77 cm",
+    "url": "https://www.ikea.com/sg/en/p/kallax-shelving-unit-white-70351886/",
+    "publisher": "IKEA",
+    "reviewedOn": "2026-11-06",
+    "scope": "Singapore article 703.518.86 and configuration; inserts are separate accessories.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "poang": {
+    "title": "POANG armchair frame assembly instructions",
+    "url": "https://www.ikea.com/sg/en/assembly_instructions/poaeng-armchair-frame-birch-veneer__AA-2615392-1-100.pdf",
+    "publisher": "IKEA",
+    "reviewedOn": "2026-11-06",
+    "scope": "Birch-veneer armchair frame, not rocking chair. Match manual edition before checking fasteners.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "micke": {
+    "title": "MICKE desk, white, 105 x 50 cm",
+    "url": "https://www.ikea.com/sg/en/p/micke-desk-white-80354276/",
+    "publisher": "IKEA",
+    "reviewedOn": "2026-11-06",
+    "scope": "Singapore article 803.542.76 and assembly reference.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "lack": {
+    "title": "LACK side table, white, 55 x 55 cm",
+    "url": "https://www.ikea.com/sg/en/p/lack-side-table-white-10449909/",
+    "publisher": "IKEA",
+    "reviewedOn": "2026-11-06",
+    "scope": "Singapore article 104.499.09; lightweight panel construction, not a seat or step.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "lv-neverfull": {
+    "title": "Neverfull MM Monogram M41178",
+    "url": "https://br.louisvuitton.com/por-br/produtos/neverfull-mm-lezard-007653/M41178",
+    "publisher": "Louis Vuitton",
+    "reviewedOn": "2026-11-06",
+    "scope": "Current M41178 reference. Product names, interiors and supplied accessories can vary by year/market.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "lv-speedy": {
+    "title": "Speedy Bandouliere 25 Monogram M46977",
+    "url": "https://it.louisvuitton.com/ita-it/prodotti/speedy-bandouliere-25-monogram-nvprod5320019v/M46977",
+    "publisher": "Louis Vuitton",
+    "reviewedOn": "2026-11-06",
+    "scope": "Current M46977 configuration; not a universal reference for older Speedy 25 versions.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "lv-dates": {
+    "title": "Louis Vuitton date codes",
+    "url": "https://www.fashionphile.com/blogs/academy/louis-vuitton-date-codes",
+    "publisher": "FASHIONPHILE",
+    "reviewedOn": "2026-11-06",
+    "scope": "Resale specialist context: a date code is not a standalone authentication method. No code-decoding verdict is used here.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "chanel": {
+    "title": "Classic 11.12 handbag - lambskin and gold-tone metal",
+    "url": "https://www.chanel.com/ca-en/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/",
+    "publisher": "CHANEL",
+    "reviewedOn": "2026-11-06",
+    "scope": "A01112 Y01295 94305 black lambskin configuration, not grained calfskin/caviar.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "chanel-auth": {
+    "title": "CHANEL anti-counterfeit information",
+    "url": "https://www.chanel.com/us/anti-counterfeit/",
+    "publisher": "CHANEL",
+    "reviewedOn": "2026-11-06",
+    "scope": "Official distribution/counterfeit context; this app cannot authenticate a second-hand bag.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "gucci": {
+    "title": "GG Marmont small camera bag",
+    "url": "https://www.gucci.com/fr/fr/pr/women/handbags/shoulder-bags-for-women/gg-marmont-small-camera-bag-p-447632DTD1T1000",
+    "publisher": "Gucci",
+    "reviewedOn": "2026-11-06",
+    "scope": "447632 DTD1T 1000 black camera-bag variant; not a flap Marmont.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "prada": {
+    "title": "Prada Re-Nylon collection reference",
+    "url": "https://www.prada.com/content/dam/pradaspa/documents/re-nylon/Re-Nylon_Collection.pdf",
+    "publisher": "Prada",
+    "reviewedOn": "2026-11-06",
+    "scope": "1BH204 R064: Re-Nylon and Saffiano trim. Colour reference F0002 cross-checked with Matsuya Ginza.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "prada-retail": {
+    "title": "Prada Re-Edition 2005 Re-Nylon bag 1BH204 R064",
+    "url": "https://www.matsuyaginza.com/en/prada-re-edition-2005-re-nylon-bag-1bh204_r064/?color=prada_fashion_black_F0002",
+    "publisher": "Matsuya Ginza",
+    "reviewedOn": "2026-11-06",
+    "scope": "Retail model/black colour reference, not a used-item authenticity opinion.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "prada-auth": {
+    "title": "Prada authenticity FAQ",
+    "url": "https://www.prada.com/eu/en/info/faqs/authenticity.html",
+    "publisher": "Prada",
+    "reviewedOn": "2026-11-06",
+    "scope": "Official authenticity guidance; packaging or digital cues alone do not certify a private resale.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "m50ii": {
+    "title": "Canon EOS M50 Mark II specifications",
+    "url": "https://cam.start.canon/uk/C007/manual/html/UG-11_Reference_0090.html",
+    "publisher": "Canon",
+    "reviewedOn": "2026-11-06",
+    "scope": "EOS M50 Mark II, EF-M mount; use appropriate lenses, not a similarly named DSLR.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "z50": {
+    "title": "Nikon Z 50 online manual",
+    "url": "https://onlinemanual.nikonimglib.com/z50/en/",
+    "publisher": "Nikon",
+    "reviewedOn": "2026-11-06",
+    "scope": "Original Z 50 model, not Z50II; camera operation and supported accessories.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xt30ii": {
+    "title": "FUJIFILM X-T30 II specifications",
+    "url": "https://fujifilm-dsc.com/en/manual/x-t30-2/technical_notes/spec/",
+    "publisher": "FUJIFILM",
+    "reviewedOn": "2026-11-06",
+    "scope": "X-T30 II operation/connection reference; not first-generation X-T30.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "zve10": {
+    "title": "Sony ZV-E10 Help Guide",
+    "url": "https://helpguide.sony.net/ilc/2070/v1/en/index.html",
+    "publisher": "Sony",
+    "reviewedOn": "2026-11-06",
+    "scope": "Original ZV-E10, not ZV-E10 II. Lens capabilities vary.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "u2720q": {
+    "title": "Dell U2720Q user guide",
+    "url": "https://dl.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitors/dell-u2720q-monitor_user%27s-guide_en-us.pdf",
+    "publisher": "Dell",
+    "reviewedOn": "2026-11-06",
+    "scope": "U2720Q controls and built-in diagnostics; USB-C use requires a compatible host/cable.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "27ul500": {
+    "title": "LG 27UL500-W support and manuals",
+    "url": "https://www.lg.com/uk/support/product-support/cs-27UL500-W.AWF/",
+    "publisher": "LG",
+    "reviewedOn": "2026-11-06",
+    "scope": "27UL500-W model; regional suffix may differ.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "vg249q": {
+    "title": "ASUS TUF Gaming VG249Q specifications",
+    "url": "https://www.asus.com/uk/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249q/techspec/",
+    "publisher": "ASUS",
+    "reviewedOn": "2026-11-06",
+    "scope": "Original VG249Q; do not substitute VG249Q1A/Q3A specifications.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "s24r350": {
+    "title": "Samsung S24R350FHN support",
+    "url": "https://www.samsung.com/us/business/support/owners/product/sr24r-series-s24r350fhn/",
+    "publisher": "Samsung",
+    "reviewedOn": "2026-11-06",
+    "scope": "24-inch SR35 family; local regional suffix and supplied adapters may differ.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "gw2480": {
+    "title": "BenQ GW2480 specifications",
+    "url": "https://www.benq.com/en-us/monitor/home/gw2480/spec.html",
+    "publisher": "BenQ",
+    "reviewedOn": "2026-11-06",
+    "scope": "GW2480 connection and speaker configuration, not GW2480T stand options.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "ps5-1200": {
+    "title": "PS5 CFI-12XXA quick start guide",
+    "url": "https://www.playstation.com/content/dam/global_pdc/en-gb/corporate/support/manuals/ps5-docs/1200a/CFI-12XXA_PS5_Quick_Start_Guide%24en-gb.pdf",
+    "publisher": "Sony Interactive Entertainment",
+    "reviewedOn": "2026-11-06",
+    "scope": "Original CFI-1200 disc model; base arrangement differs from Slim/Pro.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xbox-compare": {
+    "title": "Compare Xbox Series consoles",
+    "url": "https://www.xbox.com/en-US/consoles/compare/",
+    "publisher": "Microsoft Xbox",
+    "reviewedOn": "2026-11-06",
+    "scope": "1TB Carbon Black disc Series X and 512GB Robot White all-digital Series S; not every later colour/storage variant.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "xbox-start": {
+    "title": "Xbox consoles getting started",
+    "url": "https://www.xbox.com/en-US/consoles/getting-started",
+    "publisher": "Microsoft Xbox",
+    "reviewedOn": "2026-11-06",
+    "scope": "Setup and storage context. Seller-account purchases are not transferred by this guide.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "switch-oled": {
+    "title": "Nintendo Switch OLED overview and FAQ",
+    "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/~/nintendo-switch-%E2%80%93oled-model-overview-and-faq",
+    "publisher": "Nintendo",
+    "reviewedOn": "2026-11-06",
+    "scope": "HEG-001 OLED and HAC-001(-01) comparison; different docks and display technology.",
+    "evidence": "Official page text or search-index extract reviewed"
+  },
+  "switch-support": {
+    "title": "Nintendo Switch support overview",
+    "url": "https://www.nintendo.com/ph/support/switch/modal/outline.html?width=960",
+    "publisher": "Nintendo",
+    "reviewedOn": "2026-11-06",
+    "scope": "Switch family operation; use original matching power/dock equipment.",
+    "evidence": "Official page text or search-index extract reviewed"
+  }
+}

@@ -1,0 +1,23 @@
+server:
+  address: 127.0.0.1
+  port: ${IDENTITY_PORT:8087}
+  servlet:
+    session:
+      timeout: 30m
+      cookie:
+        name: INSPECTFIRST_SESSION
+        http-only: true
+        same-site: lax
+        secure: ${SESSION_COOKIE_SECURE:false}
+spring:
+  datasource:
+    url: ${IDENTITY_DB_URL:jdbc:mysql://127.0.0.1:3306/identity_db?connectionTimeZone=UTC}
+    username: ${IDENTITY_DB_USER:inspectfirst_identity}
+    password: ${IDENTITY_DB_PASSWORD}
+  sql:
+    init:
+      mode: never
+inspectfirst:
+  admin:
+    email: ${ADMIN_EMAIL:}
+    password: ${ADMIN_PASSWORD:}

@@ -1,0 +1,291 @@
+{
+  "verifiedOn": "2026-11-06",
+  "categoryCounts": {
+    "Phones": 5,
+    "Tablets": 5,
+    "Headphones": 5,
+    "Computers": 5,
+    "Furniture": 5,
+    "Luxury": 5,
+    "Cameras": 5,
+    "Monitors": 5,
+    "Consoles": 5
+  },
+  "importedProducts": 44,
+  "importedChecks": 176,
+  "totalPublicProducts": 45,
+  "products": [
+    {
+      "name": "Apple iPhone 13",
+      "productId": "8c4fd16d-fba9-46b5-808c-f9cca8e6ce7d",
+      "versionId": "188f593a-16ce-4856-80d9-3e507f1292cd",
+      "checks": 4
+    },
+    {
+      "name": "Apple iPhone 14",
+      "productId": "4c2f5369-9bc3-4351-bcdc-22a66f1c1683",
+      "versionId": "ad386828-7a3e-40a8-b184-1f455b9b86f1",
+      "checks": 4
+    },
+    {
+      "name": "Apple iPhone 15",
+      "productId": "83556d8f-c87c-4da0-b5f0-60aa1f6ae72c",
+      "versionId": "6d8ef1dc-6f3d-44be-a815-a01f1021ee84",
+      "checks": 4
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "productId": "71ec6adc-61a5-4ebd-91ee-26c89ea328b3",
+      "versionId": "418180e0-aa73-43af-86e2-7885c0ffaccb",
+      "checks": 4
+    },
+    {
+      "name": "Samsung Galaxy S24",
+      "productId": "bc11fe54-290f-46a0-83b4-201a52bf4924",
+      "versionId": "08b88ad3-bbaf-4da8-abc0-82523a716dee",
+      "checks": 4
+    },
+    {
+      "name": "Apple iPad 9th generation Wi-Fi",
+      "productId": "efed7364-2e77-44aa-995a-a499b23e259c",
+      "versionId": "bf5eb007-c82a-4fe5-9829-0294395f3a20",
+      "checks": 4
+    },
+    {
+      "name": "Apple iPad 10th generation Wi-Fi",
+      "productId": "36e0f3ae-511f-4829-b7c0-27f929e74122",
+      "versionId": "65e3b64f-53c5-4d01-978a-71b1f1c687ed",
+      "checks": 4
+    },
+    {
+      "name": "Apple iPad Air 5th generation Wi-Fi",
+      "productId": "4d6da81a-f3ff-4acc-985d-a4f7d1b10341",
+      "versionId": "12e82f39-9588-411e-822b-8590d117b54f",
+      "checks": 4
+    },
+    {
+      "name": "Samsung Galaxy Tab S8 Wi-Fi",
+      "productId": "79a58aca-dbda-493a-9efd-a234dbc03005",
+      "versionId": "5f928013-3842-4082-bdc5-590f762e1e40",
+      "checks": 4
+    },
+    {
+      "name": "Samsung Galaxy Tab S9 Wi-Fi",
+      "productId": "2685a33f-3b6c-4886-b9c0-15aba1117fb7",
+      "versionId": "34c004fc-9d67-4af9-80e1-f9728386cb97",
+      "checks": 4
+    },
+    {
+      "name": "Apple AirPods 3rd generation",
+      "productId": "42787fce-f760-437b-bca9-3c4020bc88ef",
+      "versionId": "511b13a1-227a-475c-a04f-b32489ae0a1a",
+      "checks": 4
+    },
+    {
+      "name": "Apple AirPods Pro 2 USB-C",
+      "productId": "64c20339-d1cf-4b80-ac78-8a594a5cf536",
+      "versionId": "7319f028-0cd6-4e38-a4a2-359a782a64fa",
+      "checks": 4
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "productId": "5161c402-9b73-4264-b79d-99cf71a55ec0",
+      "versionId": "1fea1178-0da8-4703-b47b-9af34ecd986c",
+      "checks": 4
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "productId": "19f39ad6-9794-4681-85dc-2e1117a3d12c",
+      "versionId": "20f2e817-d140-4bdc-8ad3-90cc69152d90",
+      "checks": 4
+    },
+    {
+      "name": "Bose QuietComfort 45",
+      "productId": "a94f0ac8-8455-4f25-a4b2-65c7e82199ca",
+      "versionId": "542addb0-024a-40de-a834-ed64e5e68459",
+      "checks": 4
+    },
+    {
+      "name": "Apple MacBook Air M1 2020",
+      "productId": "f604d53f-822e-4b9b-a7af-4e5c3b76207c",
+      "versionId": "828ceb81-53c1-436c-b097-a7eb93b71aee",
+      "checks": 4
+    },
+    {
+      "name": "Apple MacBook Air M2 2022",
+      "productId": "0948347c-8a29-4fb1-8dc9-a14ab91a83e2",
+      "versionId": "0975b930-16b8-475d-a004-0487ffd1b0a2",
+      "checks": 4
+    },
+    {
+      "name": "Apple MacBook Pro 14-inch 2021",
+      "productId": "2b058514-18bf-47b8-996d-5cb49896ed71",
+      "versionId": "709b5bc4-7b8c-4428-9f09-8169775dd184",
+      "checks": 4
+    },
+    {
+      "name": "Dell Latitude 5420",
+      "productId": "dd65658e-c6af-4bd5-9f07-9a5af8711bd4",
+      "versionId": "15e51692-3591-4c94-afd9-3019370133b3",
+      "checks": 4
+    },
+    {
+      "name": "Lenovo ThinkPad T14 Gen 2 Intel",
+      "productId": "c0444e7b-84d7-4365-96c8-39925931e7af",
+      "versionId": "0e3529fd-992e-4e88-8c03-4ba9d91378d2",
+      "checks": 4
+    },
+    {
+      "name": "IKEA BILLY bookcase white 80 x 28 x 202 cm",
+      "productId": "190ee728-6c5f-4d29-94c8-35f4841ae562",
+      "versionId": "49b4ff9f-b875-44e8-b1a5-c69129510122",
+      "checks": 4
+    },
+    {
+      "name": "IKEA KALLAX shelving white 77 x 77 cm",
+      "productId": "9b5acd7d-0549-4932-8952-e2141ebec225",
+      "versionId": "8038757f-ff7b-428c-ba35-0801a445d882",
+      "checks": 4
+    },
+    {
+      "name": "IKEA POANG birch-veneer armchair frame",
+      "productId": "050befc6-4ecd-45cd-86bf-ebdd876ef81c",
+      "versionId": "4391db37-bfea-42d7-bee7-bd2de044e6c7",
+      "checks": 4
+    },
+    {
+      "name": "IKEA MICKE desk white 105 x 50 cm",
+      "productId": "bc266aea-5fad-46e9-aacc-31de83a968f3",
+      "versionId": "a1d6f36c-6e6e-41bf-a0ae-283f3559312b",
+      "checks": 4
+    },
+    {
+      "name": "IKEA LACK side table white 55 x 55 cm",
+      "productId": "29d782ce-f63e-400a-8707-d0a335ed2bc8",
+      "versionId": "9d9c0c60-8dbb-4c25-9a06-fb2dc92a76aa",
+      "checks": 4
+    },
+    {
+      "name": "Louis Vuitton Neverfull MM Monogram",
+      "productId": "a788a630-326b-44bf-95f8-5f985bd096ab",
+      "versionId": "304961c8-5d1b-44cc-b269-28e74bf60af5",
+      "checks": 4
+    },
+    {
+      "name": "Louis Vuitton Speedy Bandouliere 25 Monogram",
+      "productId": "898ec771-3d11-4faa-ae1c-825146846361",
+      "versionId": "ffcddc0e-a4ca-4f76-9f9f-6ffd18126ab7",
+      "checks": 4
+    },
+    {
+      "name": "CHANEL Classic 11.12 black lambskin",
+      "productId": "144396c2-5c0e-42a7-9eac-07bc8f63c2d7",
+      "versionId": "f4988225-ad88-4eb0-8cdb-f35483d1569a",
+      "checks": 4
+    },
+    {
+      "name": "Gucci GG Marmont small black camera bag",
+      "productId": "25f4c7fe-b87b-4fdc-8c48-319b4ef93508",
+      "versionId": "680aec77-28ba-41fd-b49e-5640cfa59f23",
+      "checks": 4
+    },
+    {
+      "name": "Prada Re-Edition 2005 Re-Nylon black",
+      "productId": "ae95a38e-20c4-4bf8-8736-f4b424a4a80d",
+      "versionId": "76de6026-473d-4c49-978f-e8931de34456",
+      "checks": 4
+    },
+    {
+      "name": "Canon EOS M50 Mark II",
+      "productId": "2f6d7df9-b5aa-4db0-9cfd-6425aad568aa",
+      "versionId": "087b9438-5ac2-4331-8294-e213032fa854",
+      "checks": 4
+    },
+    {
+      "name": "Nikon Z 50",
+      "productId": "417a248c-9c4c-4b0e-9b38-b069571176da",
+      "versionId": "ef37174b-9811-4f50-aea4-6a60a7160ac2",
+      "checks": 4
+    },
+    {
+      "name": "FUJIFILM X-T30 II",
+      "productId": "ca098285-5f8d-40b7-abec-eb102161c88d",
+      "versionId": "060df989-57dc-458c-aac6-20f506ffbb4c",
+      "checks": 4
+    },
+    {
+      "name": "Sony ZV-E10",
+      "productId": "ea1dc69d-936f-4f10-89f4-76cac604d98a",
+      "versionId": "dd8f0994-5003-4758-8c94-2aafc9214dcd",
+      "checks": 4
+    },
+    {
+      "name": "Dell UltraSharp U2720Q",
+      "productId": "5dc0f0d5-a2b6-4864-a52b-57ce7499a242",
+      "versionId": "9125628f-f4ba-430c-a0eb-c1bd4e836222",
+      "checks": 4
+    },
+    {
+      "name": "LG 27UL500-W",
+      "productId": "2b55cb0e-0dfd-412b-9220-7609c1163063",
+      "versionId": "a5911ac1-ff7a-4b1e-95d8-fe4b13a624a0",
+      "checks": 4
+    },
+    {
+      "name": "ASUS TUF Gaming VG249Q",
+      "productId": "4798334e-64da-4fcd-bead-1504c7db0436",
+      "versionId": "1563fb5f-d6bb-4276-9562-695fc73d5523",
+      "checks": 4
+    },
+    {
+      "name": "Samsung S24R350 24-inch",
+      "productId": "f1a972c5-f05c-4ebf-acbe-f3121e650181",
+      "versionId": "1a18ea5b-f71e-4f58-a998-b2b30c4e6b83",
+      "checks": 4
+    },
+    {
+      "name": "BenQ GW2480",
+      "productId": "e3bcee94-bb14-474a-a7c9-65109396a1e2",
+      "versionId": "1399ee49-0e56-40a2-99b2-b3526865202e",
+      "checks": 4
+    },
+    {
+      "name": "PlayStation 5 CFI-1200 disc edition",
+      "productId": "6ae93598-ded9-453e-a378-8aa6a242e177",
+      "versionId": "e4266c42-adf1-4f3f-a184-5a349d75806c",
+      "checks": 4
+    },
+    {
+      "name": "Xbox Series X 1TB Carbon Black",
+      "productId": "77de33dd-bb12-42b5-9b0b-30bd9ed0a007",
+      "versionId": "0f3239ee-3f16-42f1-83d6-f90d6a09f6c9",
+      "checks": 4
+    },
+    {
+      "name": "Xbox Series S 512GB Robot White",
+      "productId": "43e2d52f-5cac-441d-98ef-bb7c43e7fa0d",
+      "versionId": "d5129d0d-a4cd-4ac9-b800-f3683fecd579",
+      "checks": 4
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "productId": "227837ae-b8f7-4c65-9a95-9b1332829057",
+      "versionId": "bdd768d7-61de-4ac8-b215-b15ecb20e16a",
+      "checks": 4
+    },
+    {
+      "name": "Nintendo Switch revised model",
+      "productId": "7c413b8c-40b3-473a-844c-9c7337991b8a",
+      "versionId": "a964b8fe-a8b1-4e96-8e8e-84386dbcb6f7",
+      "checks": 4
+    }
+  ],
+  "checks": [
+    "Draft schema and length validation",
+    "Every imported public guide matches all content fields and sources",
+    "All nine category filters",
+    "All catalogue model-code searches",
+    "Public pagination and unique product IDs"
+  ],
+  "limits": "Editorial buyer checklists; no expert authenticity certification, laboratory measurements or real-device testing were performed."
+}

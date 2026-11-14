@@ -1,0 +1,16 @@
+node_modules/
+dist/
+target/
+.env
+.DS_Store
+*.log
+.local/
+
+.idea/
+*.iml
+database/recovery-backups/
+__pycache__/
+
+.env.*
+!.env.example
+*.zip

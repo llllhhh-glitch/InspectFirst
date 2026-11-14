@@ -1,0 +1,3403 @@
+[
+  {
+    "productId": "42787fce-f760-437b-bca9-3c4020bc88ef",
+    "modelCode": "AIRPODS-3",
+    "guideId": "c5db2784-fd26-4921-8ce9-737fb8051eaa",
+    "baseVersionId": "511b13a1-227a-475c-a04f-b32489ae0a1a",
+    "baseVersion": 1,
+    "checkId": "06ab2ab9-e0b5-41d2-9b5e-456987f3b3b2",
+    "title": "Buds and case variant",
+    "order": 1,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/airpods-3-condition-c2264a77d9b6-1b99336cdf.svg",
+      "alt": "Apple AirPods 3rd generation — Buds and case variant. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "42787fce-f760-437b-bca9-3c4020bc88ef",
+    "modelCode": "AIRPODS-3",
+    "guideId": "c5db2784-fd26-4921-8ce9-737fb8051eaa",
+    "baseVersionId": "511b13a1-227a-475c-a04f-b32489ae0a1a",
+    "baseVersion": 1,
+    "checkId": "c3f01a62-ca58-4343-884b-5d9e38f685d9",
+    "title": "Previous owner association",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/airpods-3-condition-40acf04c77ed-b81709345c.svg",
+      "alt": "Apple AirPods 3rd generation — Previous owner association. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-euro/102620",
+      "sourceTitle": "Reference: Remove a device from another Apple Account"
+    }
+  },
+  {
+    "productId": "42787fce-f760-437b-bca9-3c4020bc88ef",
+    "modelCode": "AIRPODS-3",
+    "guideId": "c5db2784-fd26-4921-8ce9-737fb8051eaa",
+    "baseVersionId": "511b13a1-227a-475c-a04f-b32489ae0a1a",
+    "baseVersion": 1,
+    "checkId": "eaca7ba3-afd0-414f-aebd-8acba763865e",
+    "title": "Each ear and microphones",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/airpods-3-function-76bb203e4ef9-a06c5af13f.svg",
+      "alt": "Apple AirPods 3rd generation — Each ear and microphones. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "42787fce-f760-437b-bca9-3c4020bc88ef",
+    "modelCode": "AIRPODS-3",
+    "guideId": "c5db2784-fd26-4921-8ce9-737fb8051eaa",
+    "baseVersionId": "511b13a1-227a-475c-a04f-b32489ae0a1a",
+    "baseVersion": 1,
+    "checkId": "3fbbbca9-fa0c-437c-8016-df8c162ac9f9",
+    "title": "Case and charging",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/airpods-3-ports-7ccc9bf301f8-8f082263f9.svg",
+      "alt": "Apple AirPods 3rd generation — Case and charging. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "64c20339-d1cf-4b80-ac78-8a594a5cf536",
+    "modelCode": "AIRPODS-PRO-2-USBC",
+    "guideId": "d3a32b25-c644-43b6-882f-550be08c1bbe",
+    "baseVersionId": "7319f028-0cd6-4e38-a4a2-359a782a64fa",
+    "baseVersion": 1,
+    "checkId": "bcda07e6-2fa6-4eaa-bf69-884d2a73f1d3",
+    "title": "Buds and case variant",
+    "order": 1,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/airpods-pro-2-usbc-condition-e0cb464eb581-c4d27c235e.svg",
+      "alt": "Apple AirPods Pro 2 USB-C — Buds and case variant. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "64c20339-d1cf-4b80-ac78-8a594a5cf536",
+    "modelCode": "AIRPODS-PRO-2-USBC",
+    "guideId": "d3a32b25-c644-43b6-882f-550be08c1bbe",
+    "baseVersionId": "7319f028-0cd6-4e38-a4a2-359a782a64fa",
+    "baseVersion": 1,
+    "checkId": "f1f60e7e-0898-47f5-b11f-e5f97663d1ab",
+    "title": "Previous owner association",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/airpods-pro-2-usbc-condition-d7485e8881ce-8a9afe9f1c.svg",
+      "alt": "Apple AirPods Pro 2 USB-C — Previous owner association. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-euro/102620",
+      "sourceTitle": "Reference: Remove a device from another Apple Account"
+    }
+  },
+  {
+    "productId": "64c20339-d1cf-4b80-ac78-8a594a5cf536",
+    "modelCode": "AIRPODS-PRO-2-USBC",
+    "guideId": "d3a32b25-c644-43b6-882f-550be08c1bbe",
+    "baseVersionId": "7319f028-0cd6-4e38-a4a2-359a782a64fa",
+    "baseVersion": 1,
+    "checkId": "4f0833c6-3995-49b0-bfd2-4048fbbb1616",
+    "title": "Each ear and microphones",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/airpods-pro-2-usbc-function-f5284310800b-3979823fc5.svg",
+      "alt": "Apple AirPods Pro 2 USB-C — Each ear and microphones. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "64c20339-d1cf-4b80-ac78-8a594a5cf536",
+    "modelCode": "AIRPODS-PRO-2-USBC",
+    "guideId": "d3a32b25-c644-43b6-882f-550be08c1bbe",
+    "baseVersionId": "7319f028-0cd6-4e38-a4a2-359a782a64fa",
+    "baseVersion": 1,
+    "checkId": "4b8cd571-fc16-46e0-9c9e-d4c9c6974325",
+    "title": "Case and charging",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/airpods-pro-2-usbc-ports-54536c05a92e-7ec9a68b7d.svg",
+      "alt": "Apple AirPods Pro 2 USB-C — Case and charging. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/109525",
+      "sourceTitle": "Reference: Identify your AirPods"
+    }
+  },
+  {
+    "productId": "36e0f3ae-511f-4829-b7c0-27f929e74122",
+    "modelCode": "A2696",
+    "guideId": "c17b59ef-bcf1-4fd5-b9e0-29d600f0f173",
+    "baseVersionId": "65e3b64f-53c5-4d01-978a-71b1f1c687ed",
+    "baseVersion": 1,
+    "checkId": "d47ed41f-dd26-4910-b10a-6aa367140d76",
+    "title": "Exact generation",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/a2696-identity-a192a6ba9178-cbe2b4a3ba.svg",
+      "alt": "Apple iPad 10th generation Wi-Fi — Exact generation. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "36e0f3ae-511f-4829-b7c0-27f929e74122",
+    "modelCode": "A2696",
+    "guideId": "c17b59ef-bcf1-4fd5-b9e0-29d600f0f173",
+    "baseVersionId": "65e3b64f-53c5-4d01-978a-71b1f1c687ed",
+    "baseVersion": 1,
+    "checkId": "7c1c2347-0ede-47da-b7f0-94d1062e6e85",
+    "title": "Screen and top-button Touch ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/a2696-touch-b144339ca27c-71c7c2912b.svg",
+      "alt": "Apple iPad 10th generation Wi-Fi — Screen and top-button Touch ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/kb/SP884?locale=en_US",
+      "sourceTitle": "Reference: iPad (10th generation) specifications"
+    }
+  },
+  {
+    "productId": "36e0f3ae-511f-4829-b7c0-27f929e74122",
+    "modelCode": "A2696",
+    "guideId": "c17b59ef-bcf1-4fd5-b9e0-29d600f0f173",
+    "baseVersionId": "65e3b64f-53c5-4d01-978a-71b1f1c687ed",
+    "baseVersion": 1,
+    "checkId": "19411669-f227-4dc0-a052-f3d5361baa45",
+    "title": "Cameras, speakers and USB-C",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/a2696-function-9a7f8bb40664-18fcbd94c4.svg",
+      "alt": "Apple iPad 10th generation Wi-Fi — Cameras, speakers and USB-C. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/kb/SP884?locale=en_US",
+      "sourceTitle": "Reference: iPad (10th generation) specifications"
+    }
+  },
+  {
+    "productId": "36e0f3ae-511f-4829-b7c0-27f929e74122",
+    "modelCode": "A2696",
+    "guideId": "c17b59ef-bcf1-4fd5-b9e0-29d600f0f173",
+    "baseVersionId": "65e3b64f-53c5-4d01-978a-71b1f1c687ed",
+    "baseVersion": 1,
+    "checkId": "3ebafe0c-f58b-4ca1-87cc-533117b198e9",
+    "title": "Handover readiness",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/a2696-access-82633cf183fa-607df2a6cc.svg",
+      "alt": "Apple iPad 10th generation Wi-Fi — Handover readiness. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "efed7364-2e77-44aa-995a-a499b23e259c",
+    "modelCode": "A2602",
+    "guideId": "1486d021-1ece-48ab-9bbc-9f5fe43166bb",
+    "baseVersionId": "bf5eb007-c82a-4fe5-9829-0294395f3a20",
+    "baseVersion": 1,
+    "checkId": "ba294f18-8887-4fc0-b1aa-395493917b8f",
+    "title": "Exact generation",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/a2602-identity-eea3b8fe5cd1-dd47253126.svg",
+      "alt": "Apple iPad 9th generation Wi-Fi — Exact generation. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "efed7364-2e77-44aa-995a-a499b23e259c",
+    "modelCode": "A2602",
+    "guideId": "1486d021-1ece-48ab-9bbc-9f5fe43166bb",
+    "baseVersionId": "bf5eb007-c82a-4fe5-9829-0294395f3a20",
+    "baseVersion": 1,
+    "checkId": "070d2675-6e2d-40a0-9f60-66f1dd19c429",
+    "title": "Screen and Home-button Touch ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/a2602-touch-7ce802ddc3ff-20e7edb3fc.svg",
+      "alt": "Apple iPad 9th generation Wi-Fi — Screen and Home-button Touch ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/111898",
+      "sourceTitle": "Reference: iPad (9th generation) specifications"
+    }
+  },
+  {
+    "productId": "efed7364-2e77-44aa-995a-a499b23e259c",
+    "modelCode": "A2602",
+    "guideId": "1486d021-1ece-48ab-9bbc-9f5fe43166bb",
+    "baseVersionId": "bf5eb007-c82a-4fe5-9829-0294395f3a20",
+    "baseVersion": 1,
+    "checkId": "bb70882a-1fef-4dc6-97f7-64d9c5f21977",
+    "title": "Cameras, speakers and Lightning",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/a2602-function-9385d4257047-d258bafec2.svg",
+      "alt": "Apple iPad 9th generation Wi-Fi — Cameras, speakers and Lightning. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/111898",
+      "sourceTitle": "Reference: iPad (9th generation) specifications"
+    }
+  },
+  {
+    "productId": "efed7364-2e77-44aa-995a-a499b23e259c",
+    "modelCode": "A2602",
+    "guideId": "1486d021-1ece-48ab-9bbc-9f5fe43166bb",
+    "baseVersionId": "bf5eb007-c82a-4fe5-9829-0294395f3a20",
+    "baseVersion": 1,
+    "checkId": "62b7c050-4e36-4a11-b278-799fe1d5cd71",
+    "title": "Handover readiness",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/a2602-access-8ea3ff3ee00e-c80b217950.svg",
+      "alt": "Apple iPad 9th generation Wi-Fi — Handover readiness. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "4d6da81a-f3ff-4acc-985d-a4f7d1b10341",
+    "modelCode": "A2588",
+    "guideId": "0d750765-9a84-4706-8edc-273fa3c547d3",
+    "baseVersionId": "12e82f39-9588-411e-822b-8590d117b54f",
+    "baseVersion": 1,
+    "checkId": "b5672646-d520-4c24-ab8e-33031efe2a2f",
+    "title": "Exact generation",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/a2588-identity-bf4bf190b8e0-3587ef767c.svg",
+      "alt": "Apple iPad Air 5th generation Wi-Fi — Exact generation. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "4d6da81a-f3ff-4acc-985d-a4f7d1b10341",
+    "modelCode": "A2588",
+    "guideId": "0d750765-9a84-4706-8edc-273fa3c547d3",
+    "baseVersionId": "12e82f39-9588-411e-822b-8590d117b54f",
+    "baseVersion": 1,
+    "checkId": "aab3912c-0053-43b1-a997-01d1d0cfa290",
+    "title": "Screen and top-button Touch ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/a2588-touch-726ad8130ef7-bd3597da3d.svg",
+      "alt": "Apple iPad Air 5th generation Wi-Fi — Screen and top-button Touch ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111887",
+      "sourceTitle": "Reference: iPad Air (5th generation) specifications"
+    }
+  },
+  {
+    "productId": "4d6da81a-f3ff-4acc-985d-a4f7d1b10341",
+    "modelCode": "A2588",
+    "guideId": "0d750765-9a84-4706-8edc-273fa3c547d3",
+    "baseVersionId": "12e82f39-9588-411e-822b-8590d117b54f",
+    "baseVersion": 1,
+    "checkId": "42fad340-d4b1-4c2a-8c39-156c35623d9d",
+    "title": "Cameras, speakers and USB-C",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/a2588-function-d88d0c5722d8-88c2526fa8.svg",
+      "alt": "Apple iPad Air 5th generation Wi-Fi — Cameras, speakers and USB-C. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111887",
+      "sourceTitle": "Reference: iPad Air (5th generation) specifications"
+    }
+  },
+  {
+    "productId": "4d6da81a-f3ff-4acc-985d-a4f7d1b10341",
+    "modelCode": "A2588",
+    "guideId": "0d750765-9a84-4706-8edc-273fa3c547d3",
+    "baseVersionId": "12e82f39-9588-411e-822b-8590d117b54f",
+    "baseVersion": 1,
+    "checkId": "20c23096-be66-4041-a73f-e2341aa3b2ff",
+    "title": "Handover readiness",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/a2588-access-b08d2bc514b9-ae1882d297.svg",
+      "alt": "Apple iPad Air 5th generation Wi-Fi — Handover readiness. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/108043",
+      "sourceTitle": "Reference: Identify your iPad model"
+    }
+  },
+  {
+    "productId": "8c4fd16d-fba9-46b5-808c-f9cca8e6ce7d",
+    "modelCode": "IPHONE-13",
+    "guideId": "b14c374b-9d6d-4b30-aeff-9527c9a5e1e6",
+    "baseVersionId": "188f593a-16ce-4856-80d9-3e507f1292cd",
+    "baseVersion": 1,
+    "checkId": "cb7bad40-bc68-4027-bbcc-b7b7bc8373b8",
+    "title": "Account and repairs",
+    "order": 1,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/iphone-13-access-3af1b719673b-3df1e4dbf4.svg",
+      "alt": "Apple iPhone 13 — Account and repairs. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/104999",
+      "sourceTitle": "Reference: Buying a pre-owned iPhone"
+    }
+  },
+  {
+    "productId": "8c4fd16d-fba9-46b5-808c-f9cca8e6ce7d",
+    "modelCode": "IPHONE-13",
+    "guideId": "b14c374b-9d6d-4b30-aeff-9527c9a5e1e6",
+    "baseVersionId": "188f593a-16ce-4856-80d9-3e507f1292cd",
+    "baseVersion": 1,
+    "checkId": "23c344a5-a8d8-434e-bf1b-24cfc197b153",
+    "title": "Screen and Face ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/iphone-13-touch-42e98e9e7edc-2c1b7e7ee3.svg",
+      "alt": "Apple iPhone 13 — Screen and Face ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111872",
+      "sourceTitle": "Reference: iPhone 13 - Technical specifications"
+    }
+  },
+  {
+    "productId": "8c4fd16d-fba9-46b5-808c-f9cca8e6ce7d",
+    "modelCode": "IPHONE-13",
+    "guideId": "b14c374b-9d6d-4b30-aeff-9527c9a5e1e6",
+    "baseVersionId": "188f593a-16ce-4856-80d9-3e507f1292cd",
+    "baseVersion": 1,
+    "checkId": "be7fd538-0b01-4892-b96d-c9cf1f4c2926",
+    "title": "Camera, sound and connection",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/iphone-13-function-96c74c31c66c-8bbd9464d9.svg",
+      "alt": "Apple iPhone 13 — Camera, sound and connection. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111872",
+      "sourceTitle": "Reference: iPhone 13 - Technical specifications"
+    }
+  },
+  {
+    "productId": "8c4fd16d-fba9-46b5-808c-f9cca8e6ce7d",
+    "modelCode": "IPHONE-13",
+    "guideId": "b14c374b-9d6d-4b30-aeff-9527c9a5e1e6",
+    "baseVersionId": "188f593a-16ce-4856-80d9-3e507f1292cd",
+    "baseVersion": 1,
+    "checkId": "bcc906ed-a2ca-4de7-a3b4-b615657cf4cc",
+    "title": "Lightning charging and condition",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/iphone-13-ports-4814bb45788b-69ec6f12dd.svg",
+      "alt": "Apple iPhone 13 — Lightning charging and condition. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111872",
+      "sourceTitle": "Reference: iPhone 13 - Technical specifications"
+    }
+  },
+  {
+    "productId": "4c2f5369-9bc3-4351-bcdc-22a66f1c1683",
+    "modelCode": "IPHONE-14",
+    "guideId": "20cf4098-2184-4af0-ae41-cde49d925776",
+    "baseVersionId": "ad386828-7a3e-40a8-b184-1f455b9b86f1",
+    "baseVersion": 1,
+    "checkId": "3bf6eb4c-4fb6-4586-8885-bb911b26d1ff",
+    "title": "Account and repairs",
+    "order": 1,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/iphone-14-access-871ba59de65b-348bc97ea1.svg",
+      "alt": "Apple iPhone 14 — Account and repairs. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/104999",
+      "sourceTitle": "Reference: Buying a pre-owned iPhone"
+    }
+  },
+  {
+    "productId": "4c2f5369-9bc3-4351-bcdc-22a66f1c1683",
+    "modelCode": "IPHONE-14",
+    "guideId": "20cf4098-2184-4af0-ae41-cde49d925776",
+    "baseVersionId": "ad386828-7a3e-40a8-b184-1f455b9b86f1",
+    "baseVersion": 1,
+    "checkId": "b9ed39b8-8d74-417f-a378-c064c7447b4e",
+    "title": "Screen and Face ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/iphone-14-touch-e69f9a1ba053-e446ff4db3.svg",
+      "alt": "Apple iPhone 14 — Screen and Face ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111850",
+      "sourceTitle": "Reference: iPhone 14 - Technical specifications"
+    }
+  },
+  {
+    "productId": "4c2f5369-9bc3-4351-bcdc-22a66f1c1683",
+    "modelCode": "IPHONE-14",
+    "guideId": "20cf4098-2184-4af0-ae41-cde49d925776",
+    "baseVersionId": "ad386828-7a3e-40a8-b184-1f455b9b86f1",
+    "baseVersion": 1,
+    "checkId": "f0445341-13c9-4b78-ba5a-c2b7370e76b6",
+    "title": "Camera, sound and connection",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/iphone-14-function-d970e28ca75b-39effdb1ec.svg",
+      "alt": "Apple iPhone 14 — Camera, sound and connection. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111850",
+      "sourceTitle": "Reference: iPhone 14 - Technical specifications"
+    }
+  },
+  {
+    "productId": "4c2f5369-9bc3-4351-bcdc-22a66f1c1683",
+    "modelCode": "IPHONE-14",
+    "guideId": "20cf4098-2184-4af0-ae41-cde49d925776",
+    "baseVersionId": "ad386828-7a3e-40a8-b184-1f455b9b86f1",
+    "baseVersion": 1,
+    "checkId": "396374f2-9aaa-4b60-8c39-7fcf6b7b2904",
+    "title": "Lightning charging and condition",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/iphone-14-ports-ba71cbe7b278-17a6f796b2.svg",
+      "alt": "Apple iPhone 14 — Lightning charging and condition. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/111850",
+      "sourceTitle": "Reference: iPhone 14 - Technical specifications"
+    }
+  },
+  {
+    "productId": "83556d8f-c87c-4da0-b5f0-60aa1f6ae72c",
+    "modelCode": "IPHONE-15",
+    "guideId": "7ab43fcc-18b8-4011-aa5a-c17372dc7378",
+    "baseVersionId": "6d8ef1dc-6f3d-44be-a815-a01f1021ee84",
+    "baseVersion": 1,
+    "checkId": "27d0affe-3510-4b6b-ad11-307f4e8897fe",
+    "title": "Account and repairs",
+    "order": 1,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/iphone-15-access-7cd0ab21f9b2-95d690097a.svg",
+      "alt": "Apple iPhone 15 — Account and repairs. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/104999",
+      "sourceTitle": "Reference: Buying a pre-owned iPhone"
+    }
+  },
+  {
+    "productId": "83556d8f-c87c-4da0-b5f0-60aa1f6ae72c",
+    "modelCode": "IPHONE-15",
+    "guideId": "7ab43fcc-18b8-4011-aa5a-c17372dc7378",
+    "baseVersionId": "6d8ef1dc-6f3d-44be-a815-a01f1021ee84",
+    "baseVersion": 1,
+    "checkId": "e1b058a1-40ff-4915-aac4-91cf79162abc",
+    "title": "Screen and Face ID",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/iphone-15-touch-76b0c2cc03ed-e16076536f.svg",
+      "alt": "Apple iPhone 15 — Screen and Face ID. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-euro/111831",
+      "sourceTitle": "Reference: iPhone 15 - Technical specifications"
+    }
+  },
+  {
+    "productId": "83556d8f-c87c-4da0-b5f0-60aa1f6ae72c",
+    "modelCode": "IPHONE-15",
+    "guideId": "7ab43fcc-18b8-4011-aa5a-c17372dc7378",
+    "baseVersionId": "6d8ef1dc-6f3d-44be-a815-a01f1021ee84",
+    "baseVersion": 1,
+    "checkId": "e1b2849c-8786-4a60-a05a-1daad28a1c36",
+    "title": "Camera, sound and connection",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/iphone-15-function-7e161f6553e6-1166d4726a.svg",
+      "alt": "Apple iPhone 15 — Camera, sound and connection. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-euro/111831",
+      "sourceTitle": "Reference: iPhone 15 - Technical specifications"
+    }
+  },
+  {
+    "productId": "83556d8f-c87c-4da0-b5f0-60aa1f6ae72c",
+    "modelCode": "IPHONE-15",
+    "guideId": "7ab43fcc-18b8-4011-aa5a-c17372dc7378",
+    "baseVersionId": "6d8ef1dc-6f3d-44be-a815-a01f1021ee84",
+    "baseVersion": 1,
+    "checkId": "217d68d2-133d-4913-98da-30219445cb24",
+    "title": "USB-C charging and condition",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/iphone-15-ports-a44e8057e22d-3244d6049f.svg",
+      "alt": "Apple iPhone 15 — USB-C charging and condition. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-euro/111831",
+      "sourceTitle": "Reference: iPhone 15 - Technical specifications"
+    }
+  },
+  {
+    "productId": "f604d53f-822e-4b9b-a7af-4e5c3b76207c",
+    "modelCode": "MACBOOK-AIR-M1-2020",
+    "guideId": "d0fdb663-711a-4b6f-bed6-248d2f494c11",
+    "baseVersionId": "828ceb81-53c1-436c-b097-a7eb93b71aee",
+    "baseVersion": 1,
+    "checkId": "3507bd0a-a5ad-450a-b55e-c798f0baef39",
+    "title": "Configuration and physical condition",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/macbook-air-m1-2020-identity-66f25bbda5f9-d4ebdfa051.svg",
+      "alt": "Apple MacBook Air M1 2020 — Configuration and physical condition. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/111883",
+      "sourceTitle": "Reference: MacBook Air (M1, 2020) specifications"
+    }
+  },
+  {
+    "productId": "f604d53f-822e-4b9b-a7af-4e5c3b76207c",
+    "modelCode": "MACBOOK-AIR-M1-2020",
+    "guideId": "d0fdb663-711a-4b6f-bed6-248d2f494c11",
+    "baseVersionId": "828ceb81-53c1-436c-b097-a7eb93b71aee",
+    "baseVersion": 1,
+    "checkId": "48744e1a-433f-4a1b-af3d-c806eca87c72",
+    "title": "Apple Diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/macbook-air-m1-2020-diagnostics-2354619ff020-63975a1c55.svg",
+      "alt": "Apple MacBook Air M1 2020 — Apple Diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102550",
+      "sourceTitle": "Reference: Use Apple Diagnostics"
+    }
+  },
+  {
+    "productId": "f604d53f-822e-4b9b-a7af-4e5c3b76207c",
+    "modelCode": "MACBOOK-AIR-M1-2020",
+    "guideId": "d0fdb663-711a-4b6f-bed6-248d2f494c11",
+    "baseVersionId": "828ceb81-53c1-436c-b097-a7eb93b71aee",
+    "baseVersion": 1,
+    "checkId": "bea8fb94-859f-4f61-a2e5-2299937f4d5d",
+    "title": "Display, input and power",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/macbook-air-m1-2020-function-c76303a801cf-4ad9913c5b.svg",
+      "alt": "Apple MacBook Air M1 2020 — Display, input and power. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-us/111883",
+      "sourceTitle": "Reference: MacBook Air (M1, 2020) specifications"
+    }
+  },
+  {
+    "productId": "f604d53f-822e-4b9b-a7af-4e5c3b76207c",
+    "modelCode": "MACBOOK-AIR-M1-2020",
+    "guideId": "d0fdb663-711a-4b6f-bed6-248d2f494c11",
+    "baseVersionId": "828ceb81-53c1-436c-b097-a7eb93b71aee",
+    "baseVersion": 1,
+    "checkId": "60caffcf-dc93-4b15-9ce1-6aba5ebcdd17",
+    "title": "Ownership and setup",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/macbook-air-m1-2020-access-ce7488c765fb-895531a8c0.svg",
+      "alt": "Apple MacBook Air M1 2020 — Ownership and setup. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102541",
+      "sourceTitle": "Reference: Activation Lock for Mac"
+    }
+  },
+  {
+    "productId": "0948347c-8a29-4fb1-8dc9-a14ab91a83e2",
+    "modelCode": "MACBOOK-AIR-M2-2022",
+    "guideId": "e13a5f74-7e7c-4418-8580-82e88e5cca9a",
+    "baseVersionId": "0975b930-16b8-475d-a004-0487ffd1b0a2",
+    "baseVersion": 1,
+    "checkId": "2abd53d3-793d-43fe-b121-644a9d85331e",
+    "title": "Configuration and physical condition",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/macbook-air-m2-2022-identity-eb0fb2884847-efd371ee77.svg",
+      "alt": "Apple MacBook Air M2 2022 — Configuration and physical condition. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-sg/111867",
+      "sourceTitle": "Reference: MacBook Air (M2, 2022) specifications"
+    }
+  },
+  {
+    "productId": "0948347c-8a29-4fb1-8dc9-a14ab91a83e2",
+    "modelCode": "MACBOOK-AIR-M2-2022",
+    "guideId": "e13a5f74-7e7c-4418-8580-82e88e5cca9a",
+    "baseVersionId": "0975b930-16b8-475d-a004-0487ffd1b0a2",
+    "baseVersion": 1,
+    "checkId": "3a28ebc5-afe5-420f-b951-a83590e16fbe",
+    "title": "Apple Diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/macbook-air-m2-2022-diagnostics-ef494aca1323-4629769d67.svg",
+      "alt": "Apple MacBook Air M2 2022 — Apple Diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102550",
+      "sourceTitle": "Reference: Use Apple Diagnostics"
+    }
+  },
+  {
+    "productId": "0948347c-8a29-4fb1-8dc9-a14ab91a83e2",
+    "modelCode": "MACBOOK-AIR-M2-2022",
+    "guideId": "e13a5f74-7e7c-4418-8580-82e88e5cca9a",
+    "baseVersionId": "0975b930-16b8-475d-a004-0487ffd1b0a2",
+    "baseVersion": 1,
+    "checkId": "91740a21-0292-4f9c-972b-79e2d20f7f75",
+    "title": "Display, input and power",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/macbook-air-m2-2022-function-748a3f08299e-0f70cd5da8.svg",
+      "alt": "Apple MacBook Air M2 2022 — Display, input and power. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-sg/111867",
+      "sourceTitle": "Reference: MacBook Air (M2, 2022) specifications"
+    }
+  },
+  {
+    "productId": "0948347c-8a29-4fb1-8dc9-a14ab91a83e2",
+    "modelCode": "MACBOOK-AIR-M2-2022",
+    "guideId": "e13a5f74-7e7c-4418-8580-82e88e5cca9a",
+    "baseVersionId": "0975b930-16b8-475d-a004-0487ffd1b0a2",
+    "baseVersion": 1,
+    "checkId": "b0f6868b-2980-4bc8-9362-bc8c7cc51c0c",
+    "title": "Ownership and setup",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/macbook-air-m2-2022-access-f706b9f07b31-86cd592b49.svg",
+      "alt": "Apple MacBook Air M2 2022 — Ownership and setup. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102541",
+      "sourceTitle": "Reference: Activation Lock for Mac"
+    }
+  },
+  {
+    "productId": "2b058514-18bf-47b8-996d-5cb49896ed71",
+    "modelCode": "MACBOOK-PRO-14-2021",
+    "guideId": "091a23fe-f32b-4574-ac15-94bdd9be3f10",
+    "baseVersionId": "709b5bc4-7b8c-4428-9f09-8169775dd184",
+    "baseVersion": 1,
+    "checkId": "202c1cf2-b1a4-4941-ad50-2df6594a1a0f",
+    "title": "Configuration and physical condition",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/macbook-pro-14-2021-identity-62132c9258a7-d11b821eea.svg",
+      "alt": "Apple MacBook Pro 14-inch 2021 — Configuration and physical condition. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-sg/docs/mac/300451",
+      "sourceTitle": "Reference: MacBook Pro 14-inch 2021 support"
+    }
+  },
+  {
+    "productId": "2b058514-18bf-47b8-996d-5cb49896ed71",
+    "modelCode": "MACBOOK-PRO-14-2021",
+    "guideId": "091a23fe-f32b-4574-ac15-94bdd9be3f10",
+    "baseVersionId": "709b5bc4-7b8c-4428-9f09-8169775dd184",
+    "baseVersion": 1,
+    "checkId": "812b16ee-a2f7-4875-95ec-574a5f2a7ade",
+    "title": "Apple Diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/macbook-pro-14-2021-diagnostics-4f8c6821998a-75f9f04ef6.svg",
+      "alt": "Apple MacBook Pro 14-inch 2021 — Apple Diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102550",
+      "sourceTitle": "Reference: Use Apple Diagnostics"
+    }
+  },
+  {
+    "productId": "2b058514-18bf-47b8-996d-5cb49896ed71",
+    "modelCode": "MACBOOK-PRO-14-2021",
+    "guideId": "091a23fe-f32b-4574-ac15-94bdd9be3f10",
+    "baseVersionId": "709b5bc4-7b8c-4428-9f09-8169775dd184",
+    "baseVersion": 1,
+    "checkId": "2a94b589-0e57-4264-a855-0eddd76a8aac",
+    "title": "Display, input and power",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/macbook-pro-14-2021-function-b5d61263a2af-e6ad172dcf.svg",
+      "alt": "Apple MacBook Pro 14-inch 2021 — Display, input and power. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-sg/docs/mac/300451",
+      "sourceTitle": "Reference: MacBook Pro 14-inch 2021 support"
+    }
+  },
+  {
+    "productId": "2b058514-18bf-47b8-996d-5cb49896ed71",
+    "modelCode": "MACBOOK-PRO-14-2021",
+    "guideId": "091a23fe-f32b-4574-ac15-94bdd9be3f10",
+    "baseVersionId": "709b5bc4-7b8c-4428-9f09-8169775dd184",
+    "baseVersion": 1,
+    "checkId": "b442f3b1-74cb-4179-8755-37b39fba3b47",
+    "title": "Ownership and setup",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/macbook-pro-14-2021-access-cc5dc1c2daca-3cffca741e.svg",
+      "alt": "Apple MacBook Pro 14-inch 2021 — Ownership and setup. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://support.apple.com/en-ie/102541",
+      "sourceTitle": "Reference: Activation Lock for Mac"
+    }
+  },
+  {
+    "productId": "4798334e-64da-4fcd-bead-1504c7db0436",
+    "modelCode": "VG249Q",
+    "guideId": "9d028852-229d-4210-8cba-8fedfa767b16",
+    "baseVersionId": "1563fb5f-d6bb-4276-9562-695fc73d5523",
+    "baseVersion": 1,
+    "checkId": "fc8cf986-e4ac-4dd5-a5da-143611508e8f",
+    "title": "Model, stand and screen surface",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/vg249q-identity-da6b5624158b-ae55ae571e.svg",
+      "alt": "ASUS TUF Gaming VG249Q — Model, stand and screen surface. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.asus.com/uk/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249q/techspec/",
+      "sourceTitle": "Reference: ASUS TUF Gaming VG249Q specifications"
+    }
+  },
+  {
+    "productId": "4798334e-64da-4fcd-bead-1504c7db0436",
+    "modelCode": "VG249Q",
+    "guideId": "9d028852-229d-4210-8cba-8fedfa767b16",
+    "baseVersionId": "1563fb5f-d6bb-4276-9562-695fc73d5523",
+    "baseVersion": 1,
+    "checkId": "34cf39d4-d8f5-4bb5-bdae-03bb63e9eae0",
+    "title": "Display and repeatable defects",
+    "order": 2,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/vg249q-display-9c68a33842d5-099aec80c8.svg",
+      "alt": "ASUS TUF Gaming VG249Q — Display and repeatable defects. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.asus.com/uk/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249q/techspec/",
+      "sourceTitle": "Reference: ASUS TUF Gaming VG249Q specifications"
+    }
+  },
+  {
+    "productId": "4798334e-64da-4fcd-bead-1504c7db0436",
+    "modelCode": "VG249Q",
+    "guideId": "9d028852-229d-4210-8cba-8fedfa767b16",
+    "baseVersionId": "1563fb5f-d6bb-4276-9562-695fc73d5523",
+    "baseVersion": 1,
+    "checkId": "560f07f0-e43b-4a54-b0a8-035baf107d88",
+    "title": "Inputs and controls",
+    "order": 3,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/vg249q-ports-b656d132d51a-7d8c223a95.svg",
+      "alt": "ASUS TUF Gaming VG249Q — Inputs and controls. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.asus.com/uk/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249q/techspec/",
+      "sourceTitle": "Reference: ASUS TUF Gaming VG249Q specifications"
+    }
+  },
+  {
+    "productId": "4798334e-64da-4fcd-bead-1504c7db0436",
+    "modelCode": "VG249Q",
+    "guideId": "9d028852-229d-4210-8cba-8fedfa767b16",
+    "baseVersionId": "1563fb5f-d6bb-4276-9562-695fc73d5523",
+    "baseVersion": 1,
+    "checkId": "85680766-2316-4efc-9acc-928734dc1750",
+    "title": "Stable power and safe setup",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/vg249q-ports-fc71fa51aaa8-9a6073adf1.svg",
+      "alt": "ASUS TUF Gaming VG249Q — Stable power and safe setup. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.asus.com/uk/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249q/techspec/",
+      "sourceTitle": "Reference: ASUS TUF Gaming VG249Q specifications"
+    }
+  },
+  {
+    "productId": "e3bcee94-bb14-474a-a7c9-65109396a1e2",
+    "modelCode": "GW2480",
+    "guideId": "af0cdcf8-af84-4199-8ec0-37bbaa4eb1e8",
+    "baseVersionId": "1399ee49-0e56-40a2-99b2-b3526865202e",
+    "baseVersion": 1,
+    "checkId": "b54408f9-111f-4552-b6d8-2036f21b74d1",
+    "title": "Model, stand and screen surface",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/gw2480-identity-89e45e4207dc-7e2b403ca1.svg",
+      "alt": "BenQ GW2480 — Model, stand and screen surface. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.benq.com/en-us/monitor/home/gw2480/spec.html",
+      "sourceTitle": "Reference: BenQ GW2480 specifications"
+    }
+  },
+  {
+    "productId": "e3bcee94-bb14-474a-a7c9-65109396a1e2",
+    "modelCode": "GW2480",
+    "guideId": "af0cdcf8-af84-4199-8ec0-37bbaa4eb1e8",
+    "baseVersionId": "1399ee49-0e56-40a2-99b2-b3526865202e",
+    "baseVersion": 1,
+    "checkId": "d9bbcbf9-8e29-4e36-bcae-b098a1ab3ff2",
+    "title": "Display and repeatable defects",
+    "order": 2,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/gw2480-display-904b0e120dd3-20b09ff9bb.svg",
+      "alt": "BenQ GW2480 — Display and repeatable defects. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.benq.com/en-us/monitor/home/gw2480/spec.html",
+      "sourceTitle": "Reference: BenQ GW2480 specifications"
+    }
+  },
+  {
+    "productId": "e3bcee94-bb14-474a-a7c9-65109396a1e2",
+    "modelCode": "GW2480",
+    "guideId": "af0cdcf8-af84-4199-8ec0-37bbaa4eb1e8",
+    "baseVersionId": "1399ee49-0e56-40a2-99b2-b3526865202e",
+    "baseVersion": 1,
+    "checkId": "1617c473-381f-4ee4-ad2b-ab8b7b8b9dab",
+    "title": "Inputs and controls",
+    "order": 3,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/gw2480-ports-72cf267c5271-377ddccaf7.svg",
+      "alt": "BenQ GW2480 — Inputs and controls. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.benq.com/en-us/monitor/home/gw2480/spec.html",
+      "sourceTitle": "Reference: BenQ GW2480 specifications"
+    }
+  },
+  {
+    "productId": "e3bcee94-bb14-474a-a7c9-65109396a1e2",
+    "modelCode": "GW2480",
+    "guideId": "af0cdcf8-af84-4199-8ec0-37bbaa4eb1e8",
+    "baseVersionId": "1399ee49-0e56-40a2-99b2-b3526865202e",
+    "baseVersion": 1,
+    "checkId": "9033985c-02d9-4ad7-9614-84caadf1af66",
+    "title": "Stable power and safe setup",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/gw2480-ports-c4739bafcb01-f4953c4818.svg",
+      "alt": "BenQ GW2480 — Stable power and safe setup. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.benq.com/en-us/monitor/home/gw2480/spec.html",
+      "sourceTitle": "Reference: BenQ GW2480 specifications"
+    }
+  },
+  {
+    "productId": "a94f0ac8-8455-4f25-a4b2-65c7e82199ca",
+    "modelCode": "QC45",
+    "guideId": "60f905e4-3c27-4674-9c89-7c8d7a961b80",
+    "baseVersionId": "542addb0-024a-40de-a834-ed64e5e68459",
+    "baseVersion": 1,
+    "checkId": "3d9366e2-3f4d-4e2e-aa8a-c83bee782d79",
+    "title": "Frame and pads",
+    "order": 1,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/qc45-condition-71361990111b-d15f13bd4a.svg",
+      "alt": "Bose QuietComfort 45 — Frame and pads. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/pdf/869288_og_quietcomfort-45_ml.pdf",
+      "sourceTitle": "Reference: QuietComfort 45 owner guide"
+    }
+  },
+  {
+    "productId": "a94f0ac8-8455-4f25-a4b2-65c7e82199ca",
+    "modelCode": "QC45",
+    "guideId": "60f905e4-3c27-4674-9c89-7c8d7a961b80",
+    "baseVersionId": "542addb0-024a-40de-a834-ed64e5e68459",
+    "baseVersion": 1,
+    "checkId": "f628d0c4-d452-457b-9ff6-ceabba35414b",
+    "title": "Pairing and stereo audio",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/qc45-function-6b407227db5b-4c804dd69d.svg",
+      "alt": "Bose QuietComfort 45 — Pairing and stereo audio. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/pdf/869288_og_quietcomfort-45_ml.pdf",
+      "sourceTitle": "Reference: QuietComfort 45 owner guide"
+    }
+  },
+  {
+    "productId": "a94f0ac8-8455-4f25-a4b2-65c7e82199ca",
+    "modelCode": "QC45",
+    "guideId": "60f905e4-3c27-4674-9c89-7c8d7a961b80",
+    "baseVersionId": "542addb0-024a-40de-a834-ed64e5e68459",
+    "baseVersion": 1,
+    "checkId": "cfe94fd5-aab2-45db-981b-3c0fd73f004a",
+    "title": "Noise control modes",
+    "order": 3,
+    "concept": "noise",
+    "image": {
+      "url": "/images/checks/qc45-noise-ab34eb10acae-f901ccf7f3.svg",
+      "alt": "Bose QuietComfort 45 — Noise control modes. Use steady background sound at safe volume. ANC never means complete silence.",
+      "caption": "Use steady background sound at safe volume. ANC never means complete silence.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/pdf/869288_og_quietcomfort-45_ml.pdf",
+      "sourceTitle": "Reference: QuietComfort 45 owner guide"
+    }
+  },
+  {
+    "productId": "a94f0ac8-8455-4f25-a4b2-65c7e82199ca",
+    "modelCode": "QC45",
+    "guideId": "60f905e4-3c27-4674-9c89-7c8d7a961b80",
+    "baseVersionId": "542addb0-024a-40de-a834-ed64e5e68459",
+    "baseVersion": 1,
+    "checkId": "ffaa826f-71e6-4b80-95d0-349bc2a07cf5",
+    "title": "USB-C and included cable",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/qc45-ports-a10dc1255381-63c0519485.svg",
+      "alt": "Bose QuietComfort 45 — USB-C and included cable. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/pdf/869288_og_quietcomfort-45_ml.pdf",
+      "sourceTitle": "Reference: QuietComfort 45 owner guide"
+    }
+  },
+  {
+    "productId": "2f6d7df9-b5aa-4db0-9cfd-6425aad568aa",
+    "modelCode": "EOS-M50-MARK-II",
+    "guideId": "142c0748-08a3-4d98-b771-cfa3ff5bdf9f",
+    "baseVersionId": "087b9438-5ac2-4331-8294-e213032fa854",
+    "baseVersion": 1,
+    "checkId": "1bfa1e2d-d9d6-4622-9295-93f7437ae498",
+    "title": "Body and included lens",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/eos-m50-mark-ii-identity-b72e30e19ee0-9bbdfdf24b.svg",
+      "alt": "Canon EOS M50 Mark II — Body and included lens. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://cam.start.canon/uk/C007/manual/html/UG-11_Reference_0090.html",
+      "sourceTitle": "Reference: Canon EOS M50 Mark II specifications"
+    }
+  },
+  {
+    "productId": "2f6d7df9-b5aa-4db0-9cfd-6425aad568aa",
+    "modelCode": "EOS-M50-MARK-II",
+    "guideId": "142c0748-08a3-4d98-b771-cfa3ff5bdf9f",
+    "baseVersionId": "087b9438-5ac2-4331-8294-e213032fa854",
+    "baseVersion": 1,
+    "checkId": "75e265c8-5885-4fbf-9a7a-6734e7e1d917",
+    "title": "Focus and saved photographs",
+    "order": 2,
+    "concept": "focus",
+    "image": {
+      "url": "/images/checks/eos-m50-mark-ii-focus-fe7b84ceed15-1d0c663a09.svg",
+      "alt": "Canon EOS M50 Mark II — Focus and saved photographs. Use a known-good compatible lens/card and review saved photographs.",
+      "caption": "Use a known-good compatible lens/card and review saved photographs.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://cam.start.canon/uk/C007/manual/html/UG-11_Reference_0090.html",
+      "sourceTitle": "Reference: Canon EOS M50 Mark II specifications"
+    }
+  },
+  {
+    "productId": "2f6d7df9-b5aa-4db0-9cfd-6425aad568aa",
+    "modelCode": "EOS-M50-MARK-II",
+    "guideId": "142c0748-08a3-4d98-b771-cfa3ff5bdf9f",
+    "baseVersionId": "087b9438-5ac2-4331-8294-e213032fa854",
+    "baseVersion": 1,
+    "checkId": "bf6bbe92-c92e-4d9b-aa51-13be39890e2b",
+    "title": "Display, controls and video",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/eos-m50-mark-ii-function-3164639cc047-26e5a779c5.svg",
+      "alt": "Canon EOS M50 Mark II — Display, controls and video. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://cam.start.canon/uk/C007/manual/html/UG-11_Reference_0090.html",
+      "sourceTitle": "Reference: Canon EOS M50 Mark II specifications"
+    }
+  },
+  {
+    "productId": "2f6d7df9-b5aa-4db0-9cfd-6425aad568aa",
+    "modelCode": "EOS-M50-MARK-II",
+    "guideId": "142c0748-08a3-4d98-b771-cfa3ff5bdf9f",
+    "baseVersionId": "087b9438-5ac2-4331-8294-e213032fa854",
+    "baseVersion": 1,
+    "checkId": "eac02e67-3833-4873-94b2-01b408d87f0e",
+    "title": "Visible condition and power",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/eos-m50-mark-ii-ports-73e8a02da875-134c31a818.svg",
+      "alt": "Canon EOS M50 Mark II — Visible condition and power. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://cam.start.canon/uk/C007/manual/html/UG-11_Reference_0090.html",
+      "sourceTitle": "Reference: Canon EOS M50 Mark II specifications"
+    }
+  },
+  {
+    "productId": "144396c2-5c0e-42a7-9eac-07bc8f63c2d7",
+    "modelCode": "A01112-Y01295-94305",
+    "guideId": "5fd62434-8204-4766-9c56-26153722fd32",
+    "baseVersionId": "f4988225-ad88-4eb0-8cdb-f35483d1569a",
+    "baseVersion": 1,
+    "checkId": "a98f950b-3d82-41e5-acff-9366abae74c8",
+    "title": "Exact version and listing",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/a01112-y01295-94305-identity-0d2033aa17b8-056932cf08.svg",
+      "alt": "CHANEL Classic 11.12 black lambskin — Exact version and listing. Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.chanel.com/ca-en/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/",
+      "sourceTitle": "Reference: Classic 11.12 handbag - lambskin and gold-tone metal"
+    }
+  },
+  {
+    "productId": "144396c2-5c0e-42a7-9eac-07bc8f63c2d7",
+    "modelCode": "A01112-Y01295-94305",
+    "guideId": "5fd62434-8204-4766-9c56-26153722fd32",
+    "baseVersionId": "f4988225-ad88-4eb0-8cdb-f35483d1569a",
+    "baseVersion": 1,
+    "checkId": "306c58f4-a007-45b7-bb04-e6801f61f068",
+    "title": "Condition in daylight",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/a01112-y01295-94305-condition-de4050b3b8f0-1df93c3ff2.svg",
+      "alt": "CHANEL Classic 11.12 black lambskin — Condition in daylight. Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.chanel.com/ca-en/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/",
+      "sourceTitle": "Reference: Classic 11.12 handbag - lambskin and gold-tone metal"
+    }
+  },
+  {
+    "productId": "144396c2-5c0e-42a7-9eac-07bc8f63c2d7",
+    "modelCode": "A01112-Y01295-94305",
+    "guideId": "5fd62434-8204-4766-9c56-26153722fd32",
+    "baseVersionId": "f4988225-ad88-4eb0-8cdb-f35483d1569a",
+    "baseVersion": 1,
+    "checkId": "b45484e2-b56a-434d-a2bc-189d49db95fa",
+    "title": "Closures and included pieces",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/a01112-y01295-94305-mechanism-4e4657c9bfc5-4f7e709194.svg",
+      "alt": "CHANEL Classic 11.12 black lambskin — Closures and included pieces. Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.chanel.com/ca-en/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/",
+      "sourceTitle": "Reference: Classic 11.12 handbag - lambskin and gold-tone metal"
+    }
+  },
+  {
+    "productId": "144396c2-5c0e-42a7-9eac-07bc8f63c2d7",
+    "modelCode": "A01112-Y01295-94305",
+    "guideId": "5fd62434-8204-4766-9c56-26153722fd32",
+    "baseVersionId": "f4988225-ad88-4eb0-8cdb-f35483d1569a",
+    "baseVersion": 1,
+    "checkId": "d7f3a0a3-6856-4203-bba0-e39a9b626e80",
+    "title": "Evidence and unresolved risk",
+    "order": 4,
+    "concept": "provenance",
+    "image": {
+      "url": "/images/checks/a01112-y01295-94305-provenance-2197ab7b3bfc-a66a4aad60.svg",
+      "alt": "CHANEL Classic 11.12 black lambskin — Evidence and unresolved risk. Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "caption": "Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.chanel.com/us/anti-counterfeit/",
+      "sourceTitle": "Reference: CHANEL anti-counterfeit information"
+    }
+  },
+  {
+    "productId": "dd65658e-c6af-4bd5-9f07-9a5af8711bd4",
+    "modelCode": "LATITUDE-5420",
+    "guideId": "2bd5b593-4e03-48b2-8957-b998fdc7bb80",
+    "baseVersionId": "15e51692-3591-4c94-afd9-3019370133b3",
+    "baseVersion": 1,
+    "checkId": "4ecacd2c-3d0d-41dc-bf1d-38cd63eb847f",
+    "title": "Exact laptop and configuration",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/latitude-5420-identity-8d5bc231c30f-ae8af55dbe.svg",
+      "alt": "Dell Latitude 5420 — Exact laptop and configuration. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.dell.com/support/kbdoc/en-au/000188626/epsa-diagnostics-won-t-run-from-the-one-time-boot-menu-on-a-latitude-xx20-laptop-without-bios-administrator-password",
+      "sourceTitle": "Reference: Latitude xx20 diagnostics and BIOS administrator password"
+    }
+  },
+  {
+    "productId": "dd65658e-c6af-4bd5-9f07-9a5af8711bd4",
+    "modelCode": "LATITUDE-5420",
+    "guideId": "2bd5b593-4e03-48b2-8957-b998fdc7bb80",
+    "baseVersionId": "15e51692-3591-4c94-afd9-3019370133b3",
+    "baseVersion": 1,
+    "checkId": "db6aa987-5d1c-4f9d-8a79-195c8bfa674b",
+    "title": "F12 diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/latitude-5420-diagnostics-6f9ebf83b0da-336c1cd49e.svg",
+      "alt": "Dell Latitude 5420 — F12 diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.dell.com/support/kbdoc/en-au/000188626/epsa-diagnostics-won-t-run-from-the-one-time-boot-menu-on-a-latitude-xx20-laptop-without-bios-administrator-password",
+      "sourceTitle": "Reference: Latitude xx20 diagnostics and BIOS administrator password"
+    }
+  },
+  {
+    "productId": "dd65658e-c6af-4bd5-9f07-9a5af8711bd4",
+    "modelCode": "LATITUDE-5420",
+    "guideId": "2bd5b593-4e03-48b2-8957-b998fdc7bb80",
+    "baseVersionId": "15e51692-3591-4c94-afd9-3019370133b3",
+    "baseVersion": 1,
+    "checkId": "b8b06678-8086-4b82-9a98-6ed90cbfd39a",
+    "title": "Practical workstation test",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/latitude-5420-function-be07a0b58c37-da543b5ca9.svg",
+      "alt": "Dell Latitude 5420 — Practical workstation test. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.dell.com/support/kbdoc/en-au/000188626/epsa-diagnostics-won-t-run-from-the-one-time-boot-menu-on-a-latitude-xx20-laptop-without-bios-administrator-password",
+      "sourceTitle": "Reference: Latitude xx20 diagnostics and BIOS administrator password"
+    }
+  },
+  {
+    "productId": "dd65658e-c6af-4bd5-9f07-9a5af8711bd4",
+    "modelCode": "LATITUDE-5420",
+    "guideId": "2bd5b593-4e03-48b2-8957-b998fdc7bb80",
+    "baseVersionId": "15e51692-3591-4c94-afd9-3019370133b3",
+    "baseVersion": 1,
+    "checkId": "9f840d1b-6964-4fef-931f-bfab6f68984d",
+    "title": "Power and ownership handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/latitude-5420-access-38ed8c3a58e6-9df42040de.svg",
+      "alt": "Dell Latitude 5420 — Power and ownership handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.dell.com/support/kbdoc/en-au/000188626/epsa-diagnostics-won-t-run-from-the-one-time-boot-menu-on-a-latitude-xx20-laptop-without-bios-administrator-password",
+      "sourceTitle": "Reference: Latitude xx20 diagnostics and BIOS administrator password"
+    }
+  },
+  {
+    "productId": "5dc0f0d5-a2b6-4864-a52b-57ce7499a242",
+    "modelCode": "U2720Q",
+    "guideId": "d19c8711-e126-43f2-940e-6961606883b9",
+    "baseVersionId": "9125628f-f4ba-430c-a0eb-c1bd4e836222",
+    "baseVersion": 1,
+    "checkId": "57c07ab2-71f2-4323-925d-697f14aeaceb",
+    "title": "Model, stand and screen surface",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/u2720q-identity-5f2e02771936-3bed9576ab.svg",
+      "alt": "Dell UltraSharp U2720Q — Model, stand and screen surface. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://dl.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitors/dell-u2720q-monitor_user%27s-guide_en-us.pdf",
+      "sourceTitle": "Reference: Dell U2720Q user guide"
+    }
+  },
+  {
+    "productId": "5dc0f0d5-a2b6-4864-a52b-57ce7499a242",
+    "modelCode": "U2720Q",
+    "guideId": "d19c8711-e126-43f2-940e-6961606883b9",
+    "baseVersionId": "9125628f-f4ba-430c-a0eb-c1bd4e836222",
+    "baseVersion": 1,
+    "checkId": "e8ea3c5c-10f1-46a4-a369-9990f17cbb3d",
+    "title": "Display and repeatable defects",
+    "order": 2,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/u2720q-display-e4518452a2e4-ecf5651e6f.svg",
+      "alt": "Dell UltraSharp U2720Q — Display and repeatable defects. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://dl.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitors/dell-u2720q-monitor_user%27s-guide_en-us.pdf",
+      "sourceTitle": "Reference: Dell U2720Q user guide"
+    }
+  },
+  {
+    "productId": "5dc0f0d5-a2b6-4864-a52b-57ce7499a242",
+    "modelCode": "U2720Q",
+    "guideId": "d19c8711-e126-43f2-940e-6961606883b9",
+    "baseVersionId": "9125628f-f4ba-430c-a0eb-c1bd4e836222",
+    "baseVersion": 1,
+    "checkId": "5877657b-0791-43f8-b156-3c7fe5520eff",
+    "title": "Inputs and controls",
+    "order": 3,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/u2720q-ports-8981e1888465-934661a612.svg",
+      "alt": "Dell UltraSharp U2720Q — Inputs and controls. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://dl.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitors/dell-u2720q-monitor_user%27s-guide_en-us.pdf",
+      "sourceTitle": "Reference: Dell U2720Q user guide"
+    }
+  },
+  {
+    "productId": "5dc0f0d5-a2b6-4864-a52b-57ce7499a242",
+    "modelCode": "U2720Q",
+    "guideId": "d19c8711-e126-43f2-940e-6961606883b9",
+    "baseVersionId": "9125628f-f4ba-430c-a0eb-c1bd4e836222",
+    "baseVersion": 1,
+    "checkId": "a2a6ab2e-81b3-4503-8c2e-a6614024f426",
+    "title": "Stable power and safe setup",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/u2720q-ports-4be91ea25866-30ec30c0f9.svg",
+      "alt": "Dell UltraSharp U2720Q — Stable power and safe setup. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://dl.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitors/dell-u2720q-monitor_user%27s-guide_en-us.pdf",
+      "sourceTitle": "Reference: Dell U2720Q user guide"
+    }
+  },
+  {
+    "productId": "ca098285-5f8d-40b7-abec-eb102161c88d",
+    "modelCode": "X-T30-II",
+    "guideId": "3f024cb1-2f35-4f0c-a91d-ac89b60e208a",
+    "baseVersionId": "060df989-57dc-458c-aac6-20f506ffbb4c",
+    "baseVersion": 1,
+    "checkId": "2817cfdf-9f3b-4274-b915-88e680cb8e2a",
+    "title": "Body and included lens",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/x-t30-ii-identity-b6fee26d59db-ee0c6b47f4.svg",
+      "alt": "FUJIFILM X-T30 II — Body and included lens. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://fujifilm-dsc.com/en/manual/x-t30-2/technical_notes/spec/",
+      "sourceTitle": "Reference: FUJIFILM X-T30 II specifications"
+    }
+  },
+  {
+    "productId": "ca098285-5f8d-40b7-abec-eb102161c88d",
+    "modelCode": "X-T30-II",
+    "guideId": "3f024cb1-2f35-4f0c-a91d-ac89b60e208a",
+    "baseVersionId": "060df989-57dc-458c-aac6-20f506ffbb4c",
+    "baseVersion": 1,
+    "checkId": "30af4ca8-d5f7-407c-a64a-146edb0adf2b",
+    "title": "Focus and saved photographs",
+    "order": 2,
+    "concept": "focus",
+    "image": {
+      "url": "/images/checks/x-t30-ii-focus-bad5b7e69b22-434f7eab83.svg",
+      "alt": "FUJIFILM X-T30 II — Focus and saved photographs. Use a known-good compatible lens/card and review saved photographs.",
+      "caption": "Use a known-good compatible lens/card and review saved photographs.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://fujifilm-dsc.com/en/manual/x-t30-2/technical_notes/spec/",
+      "sourceTitle": "Reference: FUJIFILM X-T30 II specifications"
+    }
+  },
+  {
+    "productId": "ca098285-5f8d-40b7-abec-eb102161c88d",
+    "modelCode": "X-T30-II",
+    "guideId": "3f024cb1-2f35-4f0c-a91d-ac89b60e208a",
+    "baseVersionId": "060df989-57dc-458c-aac6-20f506ffbb4c",
+    "baseVersion": 1,
+    "checkId": "d9f76417-535a-4408-8a91-09ebefb30a87",
+    "title": "Display, controls and video",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/x-t30-ii-function-21163d4aa981-701454f182.svg",
+      "alt": "FUJIFILM X-T30 II — Display, controls and video. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://fujifilm-dsc.com/en/manual/x-t30-2/technical_notes/spec/",
+      "sourceTitle": "Reference: FUJIFILM X-T30 II specifications"
+    }
+  },
+  {
+    "productId": "ca098285-5f8d-40b7-abec-eb102161c88d",
+    "modelCode": "X-T30-II",
+    "guideId": "3f024cb1-2f35-4f0c-a91d-ac89b60e208a",
+    "baseVersionId": "060df989-57dc-458c-aac6-20f506ffbb4c",
+    "baseVersion": 1,
+    "checkId": "9a6105be-085a-4149-a243-c530bd137eed",
+    "title": "Visible condition and power",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/x-t30-ii-ports-ff888a644a9d-9f6becf9fe.svg",
+      "alt": "FUJIFILM X-T30 II — Visible condition and power. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://fujifilm-dsc.com/en/manual/x-t30-2/technical_notes/spec/",
+      "sourceTitle": "Reference: FUJIFILM X-T30 II specifications"
+    }
+  },
+  {
+    "productId": "25f4c7fe-b87b-4fdc-8c48-319b4ef93508",
+    "modelCode": "447632-DTD1T-1000",
+    "guideId": "5c36150d-5cc0-4162-a8a9-308d99946c02",
+    "baseVersionId": "680aec77-28ba-41fd-b49e-5640cfa59f23",
+    "baseVersion": 1,
+    "checkId": "8dd3cb37-912c-430c-9b2c-bcaffe032e73",
+    "title": "Exact version and listing",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/447632-dtd1t-1000-identity-e4dfdf1b7333-6b569aff7c.svg",
+      "alt": "Gucci GG Marmont small black camera bag — Exact version and listing. Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.gucci.com/fr/fr/pr/women/handbags/shoulder-bags-for-women/gg-marmont-small-camera-bag-p-447632DTD1T1000",
+      "sourceTitle": "Reference: GG Marmont small camera bag"
+    }
+  },
+  {
+    "productId": "25f4c7fe-b87b-4fdc-8c48-319b4ef93508",
+    "modelCode": "447632-DTD1T-1000",
+    "guideId": "5c36150d-5cc0-4162-a8a9-308d99946c02",
+    "baseVersionId": "680aec77-28ba-41fd-b49e-5640cfa59f23",
+    "baseVersion": 1,
+    "checkId": "e04adfd2-899c-43cd-a9b0-ac0e1336b583",
+    "title": "Condition in daylight",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/447632-dtd1t-1000-condition-5e64d7a3b543-ea75b6d680.svg",
+      "alt": "Gucci GG Marmont small black camera bag — Condition in daylight. Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.gucci.com/fr/fr/pr/women/handbags/shoulder-bags-for-women/gg-marmont-small-camera-bag-p-447632DTD1T1000",
+      "sourceTitle": "Reference: GG Marmont small camera bag"
+    }
+  },
+  {
+    "productId": "25f4c7fe-b87b-4fdc-8c48-319b4ef93508",
+    "modelCode": "447632-DTD1T-1000",
+    "guideId": "5c36150d-5cc0-4162-a8a9-308d99946c02",
+    "baseVersionId": "680aec77-28ba-41fd-b49e-5640cfa59f23",
+    "baseVersion": 1,
+    "checkId": "9ac0ba10-f9a3-444a-8d4b-0cd550548e04",
+    "title": "Closures and included pieces",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/447632-dtd1t-1000-mechanism-4a2ed8d60a29-ece0583612.svg",
+      "alt": "Gucci GG Marmont small black camera bag — Closures and included pieces. Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.gucci.com/fr/fr/pr/women/handbags/shoulder-bags-for-women/gg-marmont-small-camera-bag-p-447632DTD1T1000",
+      "sourceTitle": "Reference: GG Marmont small camera bag"
+    }
+  },
+  {
+    "productId": "25f4c7fe-b87b-4fdc-8c48-319b4ef93508",
+    "modelCode": "447632-DTD1T-1000",
+    "guideId": "5c36150d-5cc0-4162-a8a9-308d99946c02",
+    "baseVersionId": "680aec77-28ba-41fd-b49e-5640cfa59f23",
+    "baseVersion": 1,
+    "checkId": "c5a38695-7ecb-4ff9-a5bb-c8e11e446815",
+    "title": "Evidence and unresolved risk",
+    "order": 4,
+    "concept": "provenance",
+    "image": {
+      "url": "/images/checks/447632-dtd1t-1000-provenance-525ce6520add-86db90a90a.svg",
+      "alt": "Gucci GG Marmont small black camera bag — Evidence and unresolved risk. Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "caption": "Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.gucci.com/us/en/st/faq",
+      "sourceTitle": "Reference: Gucci official FAQs"
+    }
+  },
+  {
+    "productId": "190ee728-6c5f-4d29-94c8-35f4841ae562",
+    "modelCode": "00522047",
+    "guideId": "80041360-23fe-44af-856f-747b8d550db8",
+    "baseVersionId": "49b4ff9f-b875-44e8-b1a5-c69129510122",
+    "baseVersion": 1,
+    "checkId": "dd16fc9e-64de-4356-b391-f9580e161448",
+    "title": "Model and dimensions",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/00522047-identity-7cf3b4c176ce-11c02401aa.svg",
+      "alt": "IKEA BILLY bookcase white 80 x 28 x 202 cm — Model and dimensions. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/billy-bookcase-white-00522047/",
+      "sourceTitle": "Reference: BILLY bookcase, white, 80 x 28 x 202 cm"
+    }
+  },
+  {
+    "productId": "190ee728-6c5f-4d29-94c8-35f4841ae562",
+    "modelCode": "00522047",
+    "guideId": "80041360-23fe-44af-856f-747b8d550db8",
+    "baseVersionId": "49b4ff9f-b875-44e8-b1a5-c69129510122",
+    "baseVersion": 1,
+    "checkId": "2736e1b2-bf4d-43b6-b12e-6b5bfe902def",
+    "title": "Completeness",
+    "order": 2,
+    "concept": "parts",
+    "image": {
+      "url": "/images/checks/00522047-parts-ce872f19ccf9-9068c19382.svg",
+      "alt": "IKEA BILLY bookcase white 80 x 28 x 202 cm — Completeness. Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "caption": "Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/billy-bookcase-white-00522047/",
+      "sourceTitle": "Reference: BILLY bookcase, white, 80 x 28 x 202 cm"
+    }
+  },
+  {
+    "productId": "190ee728-6c5f-4d29-94c8-35f4841ae562",
+    "modelCode": "00522047",
+    "guideId": "80041360-23fe-44af-856f-747b8d550db8",
+    "baseVersionId": "49b4ff9f-b875-44e8-b1a5-c69129510122",
+    "baseVersion": 1,
+    "checkId": "59441350-bd19-4b45-8472-ec1b03b4f936",
+    "title": "Wear and damage",
+    "order": 3,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/00522047-condition-96d6ff01b7af-412e1e8e44.svg",
+      "alt": "IKEA BILLY bookcase white 80 x 28 x 202 cm — Wear and damage. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/billy-bookcase-white-00522047/",
+      "sourceTitle": "Reference: BILLY bookcase, white, 80 x 28 x 202 cm"
+    }
+  },
+  {
+    "productId": "190ee728-6c5f-4d29-94c8-35f4841ae562",
+    "modelCode": "00522047",
+    "guideId": "80041360-23fe-44af-856f-747b8d550db8",
+    "baseVersionId": "49b4ff9f-b875-44e8-b1a5-c69129510122",
+    "baseVersion": 1,
+    "checkId": "422d978e-f924-403c-8bf7-b614eef5dc70",
+    "title": "Safe collection and installation",
+    "order": 4,
+    "concept": "assembly",
+    "image": {
+      "url": "/images/checks/00522047-assembly-add160877424-ea59970eb9.svg",
+      "alt": "IKEA BILLY bookcase white 80 x 28 x 202 cm — Safe collection and installation. Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "caption": "Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/billy-bookcase-white-00522047/",
+      "sourceTitle": "Reference: BILLY bookcase, white, 80 x 28 x 202 cm"
+    }
+  },
+  {
+    "productId": "9b5acd7d-0549-4932-8952-e2141ebec225",
+    "modelCode": "70351886",
+    "guideId": "de3a211f-af88-4d18-abf8-6937175e7e34",
+    "baseVersionId": "8038757f-ff7b-428c-ba35-0801a445d882",
+    "baseVersion": 1,
+    "checkId": "f12661c2-c2d4-44a9-8753-8fd33a7ca26c",
+    "title": "Model and dimensions",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/70351886-identity-d0f4794c92fb-88ccb9acee.svg",
+      "alt": "IKEA KALLAX shelving white 77 x 77 cm — Model and dimensions. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/kallax-shelving-unit-white-70351886/",
+      "sourceTitle": "Reference: KALLAX shelving unit, white, 77 x 77 cm"
+    }
+  },
+  {
+    "productId": "9b5acd7d-0549-4932-8952-e2141ebec225",
+    "modelCode": "70351886",
+    "guideId": "de3a211f-af88-4d18-abf8-6937175e7e34",
+    "baseVersionId": "8038757f-ff7b-428c-ba35-0801a445d882",
+    "baseVersion": 1,
+    "checkId": "0916a9c6-1daf-4b3d-aaf5-2b93564b91d6",
+    "title": "Completeness",
+    "order": 2,
+    "concept": "parts",
+    "image": {
+      "url": "/images/checks/70351886-parts-b96f14ff28ed-9149ded957.svg",
+      "alt": "IKEA KALLAX shelving white 77 x 77 cm — Completeness. Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "caption": "Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/kallax-shelving-unit-white-70351886/",
+      "sourceTitle": "Reference: KALLAX shelving unit, white, 77 x 77 cm"
+    }
+  },
+  {
+    "productId": "9b5acd7d-0549-4932-8952-e2141ebec225",
+    "modelCode": "70351886",
+    "guideId": "de3a211f-af88-4d18-abf8-6937175e7e34",
+    "baseVersionId": "8038757f-ff7b-428c-ba35-0801a445d882",
+    "baseVersion": 1,
+    "checkId": "2c8d0a11-0414-4643-a999-ce11fa16f709",
+    "title": "Wear and damage",
+    "order": 3,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/70351886-condition-01122ab7ffa1-340f1892a1.svg",
+      "alt": "IKEA KALLAX shelving white 77 x 77 cm — Wear and damage. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/kallax-shelving-unit-white-70351886/",
+      "sourceTitle": "Reference: KALLAX shelving unit, white, 77 x 77 cm"
+    }
+  },
+  {
+    "productId": "9b5acd7d-0549-4932-8952-e2141ebec225",
+    "modelCode": "70351886",
+    "guideId": "de3a211f-af88-4d18-abf8-6937175e7e34",
+    "baseVersionId": "8038757f-ff7b-428c-ba35-0801a445d882",
+    "baseVersion": 1,
+    "checkId": "c8bde1fc-908b-4c62-8a62-6c4ead92358d",
+    "title": "Safe collection and installation",
+    "order": 4,
+    "concept": "assembly",
+    "image": {
+      "url": "/images/checks/70351886-assembly-f5b74658dc81-43572ee48d.svg",
+      "alt": "IKEA KALLAX shelving white 77 x 77 cm — Safe collection and installation. Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "caption": "Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/kallax-shelving-unit-white-70351886/",
+      "sourceTitle": "Reference: KALLAX shelving unit, white, 77 x 77 cm"
+    }
+  },
+  {
+    "productId": "29d782ce-f63e-400a-8707-d0a335ed2bc8",
+    "modelCode": "10449909",
+    "guideId": "602c73b0-b4ed-4fed-a4c6-61412b7bcfa5",
+    "baseVersionId": "9d9c0c60-8dbb-4c25-9a06-fb2dc92a76aa",
+    "baseVersion": 1,
+    "checkId": "c0c58e6e-7612-4e66-858a-38c3bc4ff606",
+    "title": "Model and dimensions",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/10449909-identity-e9379bc39dbe-43f43b0f5a.svg",
+      "alt": "IKEA LACK side table white 55 x 55 cm — Model and dimensions. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/lack-side-table-white-10449909/",
+      "sourceTitle": "Reference: LACK side table, white, 55 x 55 cm"
+    }
+  },
+  {
+    "productId": "29d782ce-f63e-400a-8707-d0a335ed2bc8",
+    "modelCode": "10449909",
+    "guideId": "602c73b0-b4ed-4fed-a4c6-61412b7bcfa5",
+    "baseVersionId": "9d9c0c60-8dbb-4c25-9a06-fb2dc92a76aa",
+    "baseVersion": 1,
+    "checkId": "ddc5bdb9-7b23-4062-bb49-1489973cee7a",
+    "title": "Completeness",
+    "order": 2,
+    "concept": "parts",
+    "image": {
+      "url": "/images/checks/10449909-parts-cd438b066617-2c787b6237.svg",
+      "alt": "IKEA LACK side table white 55 x 55 cm — Completeness. Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "caption": "Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/lack-side-table-white-10449909/",
+      "sourceTitle": "Reference: LACK side table, white, 55 x 55 cm"
+    }
+  },
+  {
+    "productId": "29d782ce-f63e-400a-8707-d0a335ed2bc8",
+    "modelCode": "10449909",
+    "guideId": "602c73b0-b4ed-4fed-a4c6-61412b7bcfa5",
+    "baseVersionId": "9d9c0c60-8dbb-4c25-9a06-fb2dc92a76aa",
+    "baseVersion": 1,
+    "checkId": "8fa27fee-c46e-4d27-b735-993296553f67",
+    "title": "Wear and damage",
+    "order": 3,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/10449909-condition-577f4bf42bcb-6cf92454b7.svg",
+      "alt": "IKEA LACK side table white 55 x 55 cm — Wear and damage. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/lack-side-table-white-10449909/",
+      "sourceTitle": "Reference: LACK side table, white, 55 x 55 cm"
+    }
+  },
+  {
+    "productId": "29d782ce-f63e-400a-8707-d0a335ed2bc8",
+    "modelCode": "10449909",
+    "guideId": "602c73b0-b4ed-4fed-a4c6-61412b7bcfa5",
+    "baseVersionId": "9d9c0c60-8dbb-4c25-9a06-fb2dc92a76aa",
+    "baseVersion": 1,
+    "checkId": "ffb58c5a-5eb9-42c8-9d63-7a9668c8b5dc",
+    "title": "Safe collection and installation",
+    "order": 4,
+    "concept": "assembly",
+    "image": {
+      "url": "/images/checks/10449909-assembly-cdbe903bc934-cec9497792.svg",
+      "alt": "IKEA LACK side table white 55 x 55 cm — Safe collection and installation. Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "caption": "Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/lack-side-table-white-10449909/",
+      "sourceTitle": "Reference: LACK side table, white, 55 x 55 cm"
+    }
+  },
+  {
+    "productId": "bc266aea-5fad-46e9-aacc-31de83a968f3",
+    "modelCode": "80354276",
+    "guideId": "c4ef3b64-3cdf-4b03-91ba-28bac24a24bf",
+    "baseVersionId": "a1d6f36c-6e6e-41bf-a0ae-283f3559312b",
+    "baseVersion": 1,
+    "checkId": "8b4a58d3-538c-40f5-93f5-e45a115043f9",
+    "title": "Model and dimensions",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/80354276-identity-a4f69a6e7959-a3f4506d91.svg",
+      "alt": "IKEA MICKE desk white 105 x 50 cm — Model and dimensions. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/micke-desk-white-80354276/",
+      "sourceTitle": "Reference: MICKE desk, white, 105 x 50 cm"
+    }
+  },
+  {
+    "productId": "bc266aea-5fad-46e9-aacc-31de83a968f3",
+    "modelCode": "80354276",
+    "guideId": "c4ef3b64-3cdf-4b03-91ba-28bac24a24bf",
+    "baseVersionId": "a1d6f36c-6e6e-41bf-a0ae-283f3559312b",
+    "baseVersion": 1,
+    "checkId": "b6fb0faf-6d9b-4fbb-b5aa-5f534507447f",
+    "title": "Completeness",
+    "order": 2,
+    "concept": "parts",
+    "image": {
+      "url": "/images/checks/80354276-parts-7879fe75a323-e1b02209a8.svg",
+      "alt": "IKEA MICKE desk white 105 x 50 cm — Completeness. Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "caption": "Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/micke-desk-white-80354276/",
+      "sourceTitle": "Reference: MICKE desk, white, 105 x 50 cm"
+    }
+  },
+  {
+    "productId": "bc266aea-5fad-46e9-aacc-31de83a968f3",
+    "modelCode": "80354276",
+    "guideId": "c4ef3b64-3cdf-4b03-91ba-28bac24a24bf",
+    "baseVersionId": "a1d6f36c-6e6e-41bf-a0ae-283f3559312b",
+    "baseVersion": 1,
+    "checkId": "4e055714-6ea5-4c18-9588-373acdc4e768",
+    "title": "Wear and damage",
+    "order": 3,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/80354276-condition-f6fd6d791c19-99dacf3948.svg",
+      "alt": "IKEA MICKE desk white 105 x 50 cm — Wear and damage. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/micke-desk-white-80354276/",
+      "sourceTitle": "Reference: MICKE desk, white, 105 x 50 cm"
+    }
+  },
+  {
+    "productId": "bc266aea-5fad-46e9-aacc-31de83a968f3",
+    "modelCode": "80354276",
+    "guideId": "c4ef3b64-3cdf-4b03-91ba-28bac24a24bf",
+    "baseVersionId": "a1d6f36c-6e6e-41bf-a0ae-283f3559312b",
+    "baseVersion": 1,
+    "checkId": "ddc07db5-fc84-4f68-9398-9962492f5914",
+    "title": "Safe collection and installation",
+    "order": 4,
+    "concept": "assembly",
+    "image": {
+      "url": "/images/checks/80354276-assembly-1cb480d1c5b1-e05042c83f.svg",
+      "alt": "IKEA MICKE desk white 105 x 50 cm — Safe collection and installation. Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "caption": "Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/p/micke-desk-white-80354276/",
+      "sourceTitle": "Reference: MICKE desk, white, 105 x 50 cm"
+    }
+  },
+  {
+    "productId": "050befc6-4ecd-45cd-86bf-ebdd876ef81c",
+    "modelCode": "POANG-BIRCH-FRAME",
+    "guideId": "893a714e-cf1e-4d1e-9d39-82d5bd6fedcf",
+    "baseVersionId": "4391db37-bfea-42d7-bee7-bd2de044e6c7",
+    "baseVersion": 1,
+    "checkId": "e11e237a-6063-4998-816e-01ba2e5e978b",
+    "title": "Model and dimensions",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/poang-birch-frame-identity-e84f406239d6-8a0b733a81.svg",
+      "alt": "IKEA POANG birch-veneer armchair frame — Model and dimensions. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/assembly_instructions/poaeng-armchair-frame-birch-veneer__AA-2615392-1-100.pdf",
+      "sourceTitle": "Reference: POANG armchair frame assembly instructions"
+    }
+  },
+  {
+    "productId": "050befc6-4ecd-45cd-86bf-ebdd876ef81c",
+    "modelCode": "POANG-BIRCH-FRAME",
+    "guideId": "893a714e-cf1e-4d1e-9d39-82d5bd6fedcf",
+    "baseVersionId": "4391db37-bfea-42d7-bee7-bd2de044e6c7",
+    "baseVersion": 1,
+    "checkId": "56592974-7d7c-4f70-9852-e258642e0867",
+    "title": "Completeness",
+    "order": 2,
+    "concept": "parts",
+    "image": {
+      "url": "/images/checks/poang-birch-frame-parts-9fa195462a84-9e04c20a29.svg",
+      "alt": "IKEA POANG birch-veneer armchair frame — Completeness. Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "caption": "Missing structural fixings must be resolved before use; do not improvise replacements.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/assembly_instructions/poaeng-armchair-frame-birch-veneer__AA-2615392-1-100.pdf",
+      "sourceTitle": "Reference: POANG armchair frame assembly instructions"
+    }
+  },
+  {
+    "productId": "050befc6-4ecd-45cd-86bf-ebdd876ef81c",
+    "modelCode": "POANG-BIRCH-FRAME",
+    "guideId": "893a714e-cf1e-4d1e-9d39-82d5bd6fedcf",
+    "baseVersionId": "4391db37-bfea-42d7-bee7-bd2de044e6c7",
+    "baseVersion": 1,
+    "checkId": "cf7873c0-1a2e-483b-88c7-155e942a138c",
+    "title": "Wear and damage",
+    "order": 3,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/poang-birch-frame-condition-f998ea36fa5c-900e6711cb.svg",
+      "alt": "IKEA POANG birch-veneer armchair frame — Wear and damage. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/assembly_instructions/poaeng-armchair-frame-birch-veneer__AA-2615392-1-100.pdf",
+      "sourceTitle": "Reference: POANG armchair frame assembly instructions"
+    }
+  },
+  {
+    "productId": "050befc6-4ecd-45cd-86bf-ebdd876ef81c",
+    "modelCode": "POANG-BIRCH-FRAME",
+    "guideId": "893a714e-cf1e-4d1e-9d39-82d5bd6fedcf",
+    "baseVersionId": "4391db37-bfea-42d7-bee7-bd2de044e6c7",
+    "baseVersion": 1,
+    "checkId": "653acf61-cf84-4007-b821-14e5e0ed4779",
+    "title": "Safe collection and installation",
+    "order": 4,
+    "concept": "assembly",
+    "image": {
+      "url": "/images/checks/poang-birch-frame-assembly-89615dd22d60-692890ceb0.svg",
+      "alt": "IKEA POANG birch-veneer armchair frame — Safe collection and installation. Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "caption": "Use the matching assembly manual. Never climb, tip-test or stress-load furniture.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.ikea.com/sg/en/assembly_instructions/poaeng-armchair-frame-birch-veneer__AA-2615392-1-100.pdf",
+      "sourceTitle": "Reference: POANG armchair frame assembly instructions"
+    }
+  },
+  {
+    "productId": "c0444e7b-84d7-4365-96c8-39925931e7af",
+    "modelCode": "T14-GEN2-INTEL",
+    "guideId": "bd1f1f05-4f2a-4bf9-83cc-7bf613a1ce71",
+    "baseVersionId": "0e3529fd-992e-4e88-8c03-4ba9d91378d2",
+    "baseVersion": 1,
+    "checkId": "47fe0e6e-76cb-4490-973e-cc89e0179abc",
+    "title": "Intel generation and configuration",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/t14-gen2-intel-identity-5c51cab7395c-ced413aca1.svg",
+      "alt": "Lenovo ThinkPad T14 Gen 2 Intel — Intel generation and configuration. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.html",
+      "sourceTitle": "Reference: ThinkPad T14 Gen 2 Intel PSREF"
+    }
+  },
+  {
+    "productId": "c0444e7b-84d7-4365-96c8-39925931e7af",
+    "modelCode": "T14-GEN2-INTEL",
+    "guideId": "bd1f1f05-4f2a-4bf9-83cc-7bf613a1ce71",
+    "baseVersionId": "0e3529fd-992e-4e88-8c03-4ba9d91378d2",
+    "baseVersion": 1,
+    "checkId": "863c3750-03d4-4588-ab10-8cb38f999c50",
+    "title": "Keyboard, TrackPoint and screen",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/t14-gen2-intel-function-d88f3a00fb94-58aad8fac4.svg",
+      "alt": "Lenovo ThinkPad T14 Gen 2 Intel — Keyboard, TrackPoint and screen. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.html",
+      "sourceTitle": "Reference: ThinkPad T14 Gen 2 Intel PSREF"
+    }
+  },
+  {
+    "productId": "c0444e7b-84d7-4365-96c8-39925931e7af",
+    "modelCode": "T14-GEN2-INTEL",
+    "guideId": "bd1f1f05-4f2a-4bf9-83cc-7bf613a1ce71",
+    "baseVersionId": "0e3529fd-992e-4e88-8c03-4ba9d91378d2",
+    "baseVersion": 1,
+    "checkId": "c971546c-1a7d-423b-882b-8f07d9e6ac90",
+    "title": "Connections and conferencing",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/t14-gen2-intel-function-623b88c96cb7-a848a0d386.svg",
+      "alt": "Lenovo ThinkPad T14 Gen 2 Intel — Connections and conferencing. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.html",
+      "sourceTitle": "Reference: ThinkPad T14 Gen 2 Intel PSREF"
+    }
+  },
+  {
+    "productId": "c0444e7b-84d7-4365-96c8-39925931e7af",
+    "modelCode": "T14-GEN2-INTEL",
+    "guideId": "bd1f1f05-4f2a-4bf9-83cc-7bf613a1ce71",
+    "baseVersionId": "0e3529fd-992e-4e88-8c03-4ba9d91378d2",
+    "baseVersion": 1,
+    "checkId": "6b8744a3-ea77-48ae-bae2-478d9e7c39d3",
+    "title": "Case, battery and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/t14-gen2-intel-access-37d98aa34d6e-31ea1c59c8.svg",
+      "alt": "Lenovo ThinkPad T14 Gen 2 Intel — Case, battery and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.html",
+      "sourceTitle": "Reference: ThinkPad T14 Gen 2 Intel PSREF"
+    }
+  },
+  {
+    "productId": "2b55cb0e-0dfd-412b-9220-7609c1163063",
+    "modelCode": "27UL500-W",
+    "guideId": "cba4cfae-0c04-4df2-8f00-1ad5492a4646",
+    "baseVersionId": "a5911ac1-ff7a-4b1e-95d8-fe4b13a624a0",
+    "baseVersion": 1,
+    "checkId": "5e85e71e-95d2-41c5-906b-5eb65717bfb9",
+    "title": "Model, stand and screen surface",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/27ul500-w-identity-81d34d935f49-83e9c3de87.svg",
+      "alt": "LG 27UL500-W — Model, stand and screen surface. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.lg.com/uk/support/product-support/cs-27UL500-W.AWF/",
+      "sourceTitle": "Reference: LG 27UL500-W support and manuals"
+    }
+  },
+  {
+    "productId": "2b55cb0e-0dfd-412b-9220-7609c1163063",
+    "modelCode": "27UL500-W",
+    "guideId": "cba4cfae-0c04-4df2-8f00-1ad5492a4646",
+    "baseVersionId": "a5911ac1-ff7a-4b1e-95d8-fe4b13a624a0",
+    "baseVersion": 1,
+    "checkId": "93dd5838-cb1d-4830-903d-ffb16d8286d2",
+    "title": "Display and repeatable defects",
+    "order": 2,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/27ul500-w-display-3c5e77603cc3-9da00f6d70.svg",
+      "alt": "LG 27UL500-W — Display and repeatable defects. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.lg.com/uk/support/product-support/cs-27UL500-W.AWF/",
+      "sourceTitle": "Reference: LG 27UL500-W support and manuals"
+    }
+  },
+  {
+    "productId": "2b55cb0e-0dfd-412b-9220-7609c1163063",
+    "modelCode": "27UL500-W",
+    "guideId": "cba4cfae-0c04-4df2-8f00-1ad5492a4646",
+    "baseVersionId": "a5911ac1-ff7a-4b1e-95d8-fe4b13a624a0",
+    "baseVersion": 1,
+    "checkId": "a0c6f683-b970-4359-aa75-a04d8400a669",
+    "title": "Inputs and controls",
+    "order": 3,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/27ul500-w-ports-9e9eb2279d20-7912417929.svg",
+      "alt": "LG 27UL500-W — Inputs and controls. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.lg.com/uk/support/product-support/cs-27UL500-W.AWF/",
+      "sourceTitle": "Reference: LG 27UL500-W support and manuals"
+    }
+  },
+  {
+    "productId": "2b55cb0e-0dfd-412b-9220-7609c1163063",
+    "modelCode": "27UL500-W",
+    "guideId": "cba4cfae-0c04-4df2-8f00-1ad5492a4646",
+    "baseVersionId": "a5911ac1-ff7a-4b1e-95d8-fe4b13a624a0",
+    "baseVersion": 1,
+    "checkId": "51db9927-63a2-44b3-b9e2-14b6a3ce6dab",
+    "title": "Stable power and safe setup",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/27ul500-w-ports-1d9772d31f8d-076ade1e09.svg",
+      "alt": "LG 27UL500-W — Stable power and safe setup. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.lg.com/uk/support/product-support/cs-27UL500-W.AWF/",
+      "sourceTitle": "Reference: LG 27UL500-W support and manuals"
+    }
+  },
+  {
+    "productId": "a788a630-326b-44bf-95f8-5f985bd096ab",
+    "modelCode": "M41178",
+    "guideId": "436b227e-f9bc-45e8-ac48-a2ea446e21d5",
+    "baseVersionId": "304961c8-5d1b-44cc-b269-28e74bf60af5",
+    "baseVersion": 1,
+    "checkId": "c10713a0-7321-4c44-aeef-1c394f718d2a",
+    "title": "Exact version and listing",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/m41178-identity-568506ad0570-3be22b48c3.svg",
+      "alt": "Louis Vuitton Neverfull MM Monogram — Exact version and listing. Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://br.louisvuitton.com/por-br/produtos/neverfull-mm-lezard-007653/M41178",
+      "sourceTitle": "Reference: Neverfull MM Monogram M41178"
+    }
+  },
+  {
+    "productId": "a788a630-326b-44bf-95f8-5f985bd096ab",
+    "modelCode": "M41178",
+    "guideId": "436b227e-f9bc-45e8-ac48-a2ea446e21d5",
+    "baseVersionId": "304961c8-5d1b-44cc-b269-28e74bf60af5",
+    "baseVersion": 1,
+    "checkId": "d41a2518-96fb-4db3-bee4-e1786b2d6292",
+    "title": "Condition in daylight",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/m41178-condition-ff80fe1c7a65-1c50d24495.svg",
+      "alt": "Louis Vuitton Neverfull MM Monogram — Condition in daylight. Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://br.louisvuitton.com/por-br/produtos/neverfull-mm-lezard-007653/M41178",
+      "sourceTitle": "Reference: Neverfull MM Monogram M41178"
+    }
+  },
+  {
+    "productId": "a788a630-326b-44bf-95f8-5f985bd096ab",
+    "modelCode": "M41178",
+    "guideId": "436b227e-f9bc-45e8-ac48-a2ea446e21d5",
+    "baseVersionId": "304961c8-5d1b-44cc-b269-28e74bf60af5",
+    "baseVersion": 1,
+    "checkId": "8417757b-20ce-4151-b24e-af2731657815",
+    "title": "Closures and included pieces",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/m41178-mechanism-15c21040f31f-ee37ab6417.svg",
+      "alt": "Louis Vuitton Neverfull MM Monogram — Closures and included pieces. Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://br.louisvuitton.com/por-br/produtos/neverfull-mm-lezard-007653/M41178",
+      "sourceTitle": "Reference: Neverfull MM Monogram M41178"
+    }
+  },
+  {
+    "productId": "a788a630-326b-44bf-95f8-5f985bd096ab",
+    "modelCode": "M41178",
+    "guideId": "436b227e-f9bc-45e8-ac48-a2ea446e21d5",
+    "baseVersionId": "304961c8-5d1b-44cc-b269-28e74bf60af5",
+    "baseVersion": 1,
+    "checkId": "581dfe85-7647-4d1b-ac67-c543120b1ebd",
+    "title": "Evidence and unresolved risk",
+    "order": 4,
+    "concept": "provenance",
+    "image": {
+      "url": "/images/checks/m41178-provenance-03dbc5abfee9-c4b2fff3cb.svg",
+      "alt": "Louis Vuitton Neverfull MM Monogram — Evidence and unresolved risk. Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "caption": "Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.fashionphile.com/blogs/academy/louis-vuitton-date-codes",
+      "sourceTitle": "Reference: Louis Vuitton date codes"
+    }
+  },
+  {
+    "productId": "898ec771-3d11-4faa-ae1c-825146846361",
+    "modelCode": "M46977",
+    "guideId": "4102ca70-d266-476f-89e5-9e5ea8c1c232",
+    "baseVersionId": "ffcddc0e-a4ca-4f76-9f9f-6ffd18126ab7",
+    "baseVersion": 1,
+    "checkId": "dd90b45e-bc64-4704-90b7-fffdd98fa94b",
+    "title": "Exact version and listing",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/m46977-identity-d6ca3cd806bf-be3aa4f012.svg",
+      "alt": "Louis Vuitton Speedy Bandouliere 25 Monogram — Exact version and listing. Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://it.louisvuitton.com/ita-it/prodotti/speedy-bandouliere-25-monogram-nvprod5320019v/M46977",
+      "sourceTitle": "Reference: Speedy Bandouliere 25 Monogram M46977"
+    }
+  },
+  {
+    "productId": "898ec771-3d11-4faa-ae1c-825146846361",
+    "modelCode": "M46977",
+    "guideId": "4102ca70-d266-476f-89e5-9e5ea8c1c232",
+    "baseVersionId": "ffcddc0e-a4ca-4f76-9f9f-6ffd18126ab7",
+    "baseVersion": 1,
+    "checkId": "fae9163a-9773-4503-a76c-dd4caa97b262",
+    "title": "Condition in daylight",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/m46977-condition-70a0da619788-c1c0f0bfbf.svg",
+      "alt": "Louis Vuitton Speedy Bandouliere 25 Monogram — Condition in daylight. Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://it.louisvuitton.com/ita-it/prodotti/speedy-bandouliere-25-monogram-nvprod5320019v/M46977",
+      "sourceTitle": "Reference: Speedy Bandouliere 25 Monogram M46977"
+    }
+  },
+  {
+    "productId": "898ec771-3d11-4faa-ae1c-825146846361",
+    "modelCode": "M46977",
+    "guideId": "4102ca70-d266-476f-89e5-9e5ea8c1c232",
+    "baseVersionId": "ffcddc0e-a4ca-4f76-9f9f-6ffd18126ab7",
+    "baseVersion": 1,
+    "checkId": "eeb12aab-43ad-447e-8393-03e4301f96a6",
+    "title": "Closures and included pieces",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/m46977-mechanism-63c52390e985-344c88595e.svg",
+      "alt": "Louis Vuitton Speedy Bandouliere 25 Monogram — Closures and included pieces. Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://it.louisvuitton.com/ita-it/prodotti/speedy-bandouliere-25-monogram-nvprod5320019v/M46977",
+      "sourceTitle": "Reference: Speedy Bandouliere 25 Monogram M46977"
+    }
+  },
+  {
+    "productId": "898ec771-3d11-4faa-ae1c-825146846361",
+    "modelCode": "M46977",
+    "guideId": "4102ca70-d266-476f-89e5-9e5ea8c1c232",
+    "baseVersionId": "ffcddc0e-a4ca-4f76-9f9f-6ffd18126ab7",
+    "baseVersion": 1,
+    "checkId": "c27f7148-aade-4760-9cf7-598ab494717e",
+    "title": "Evidence and unresolved risk",
+    "order": 4,
+    "concept": "provenance",
+    "image": {
+      "url": "/images/checks/m46977-provenance-3da79a455e0b-b08dd5339c.svg",
+      "alt": "Louis Vuitton Speedy Bandouliere 25 Monogram — Evidence and unresolved risk. Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "caption": "Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.fashionphile.com/blogs/academy/louis-vuitton-date-codes",
+      "sourceTitle": "Reference: Louis Vuitton date codes"
+    }
+  },
+  {
+    "productId": "417a248c-9c4c-4b0e-9b38-b069571176da",
+    "modelCode": "Z50",
+    "guideId": "cca16d08-a063-410c-9710-f4582970f861",
+    "baseVersionId": "ef37174b-9811-4f50-aea4-6a60a7160ac2",
+    "baseVersion": 1,
+    "checkId": "98177ab6-29ef-44d1-af45-561d9b611a5f",
+    "title": "Body and included lens",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/z50-identity-c6f033505801-2f5c694e0f.svg",
+      "alt": "Nikon Z 50 — Body and included lens. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://onlinemanual.nikonimglib.com/z50/en/",
+      "sourceTitle": "Reference: Nikon Z 50 online manual"
+    }
+  },
+  {
+    "productId": "417a248c-9c4c-4b0e-9b38-b069571176da",
+    "modelCode": "Z50",
+    "guideId": "cca16d08-a063-410c-9710-f4582970f861",
+    "baseVersionId": "ef37174b-9811-4f50-aea4-6a60a7160ac2",
+    "baseVersion": 1,
+    "checkId": "80a2c3b0-0b84-4cbe-871a-1a9b26d7b17f",
+    "title": "Focus and saved photographs",
+    "order": 2,
+    "concept": "focus",
+    "image": {
+      "url": "/images/checks/z50-focus-e9301e4875de-695aefb710.svg",
+      "alt": "Nikon Z 50 — Focus and saved photographs. Use a known-good compatible lens/card and review saved photographs.",
+      "caption": "Use a known-good compatible lens/card and review saved photographs.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://onlinemanual.nikonimglib.com/z50/en/",
+      "sourceTitle": "Reference: Nikon Z 50 online manual"
+    }
+  },
+  {
+    "productId": "417a248c-9c4c-4b0e-9b38-b069571176da",
+    "modelCode": "Z50",
+    "guideId": "cca16d08-a063-410c-9710-f4582970f861",
+    "baseVersionId": "ef37174b-9811-4f50-aea4-6a60a7160ac2",
+    "baseVersion": 1,
+    "checkId": "974cddfb-ff35-471f-9ca9-98ce00fd9af4",
+    "title": "Display, controls and video",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/z50-function-6431eb800f18-4b8c37e3ca.svg",
+      "alt": "Nikon Z 50 — Display, controls and video. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://onlinemanual.nikonimglib.com/z50/en/",
+      "sourceTitle": "Reference: Nikon Z 50 online manual"
+    }
+  },
+  {
+    "productId": "417a248c-9c4c-4b0e-9b38-b069571176da",
+    "modelCode": "Z50",
+    "guideId": "cca16d08-a063-410c-9710-f4582970f861",
+    "baseVersionId": "ef37174b-9811-4f50-aea4-6a60a7160ac2",
+    "baseVersion": 1,
+    "checkId": "b93209c8-0692-41d0-a83d-026946cda397",
+    "title": "Visible condition and power",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/z50-ports-55605f9e0310-4c987eec1c.svg",
+      "alt": "Nikon Z 50 — Visible condition and power. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://onlinemanual.nikonimglib.com/z50/en/",
+      "sourceTitle": "Reference: Nikon Z 50 online manual"
+    }
+  },
+  {
+    "productId": "227837ae-b8f7-4c65-9a95-9b1332829057",
+    "modelCode": "HEG-001",
+    "guideId": "96c54525-ddc2-4ca9-b304-93e04d5a43ec",
+    "baseVersionId": "bdd768d7-61de-4ac8-b215-b15ecb20e16a",
+    "baseVersion": 1,
+    "checkId": "2164b27b-3316-41e7-aaa8-82a3330f1134",
+    "title": "Model and supplied dock",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/heg-001-identity-7ed075efefa4-f5403b648f.svg",
+      "alt": "Nintendo Switch OLED — Model and supplied dock. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/~/nintendo-switch-%E2%80%93oled-model-overview-and-faq",
+      "sourceTitle": "Reference: Nintendo Switch OLED overview and FAQ"
+    }
+  },
+  {
+    "productId": "227837ae-b8f7-4c65-9a95-9b1332829057",
+    "modelCode": "HEG-001",
+    "guideId": "96c54525-ddc2-4ca9-b304-93e04d5a43ec",
+    "baseVersionId": "bdd768d7-61de-4ac8-b215-b15ecb20e16a",
+    "baseVersion": 1,
+    "checkId": "d2780324-d713-4f9b-9373-59b526b85f3b",
+    "title": "Screen and touch",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/heg-001-touch-c9648a850486-e013a865ce.svg",
+      "alt": "Nintendo Switch OLED — Screen and touch. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/~/nintendo-switch-%E2%80%93oled-model-overview-and-faq",
+      "sourceTitle": "Reference: Nintendo Switch OLED overview and FAQ"
+    }
+  },
+  {
+    "productId": "227837ae-b8f7-4c65-9a95-9b1332829057",
+    "modelCode": "HEG-001",
+    "guideId": "96c54525-ddc2-4ca9-b304-93e04d5a43ec",
+    "baseVersionId": "bdd768d7-61de-4ac8-b215-b15ecb20e16a",
+    "baseVersion": 1,
+    "checkId": "a5332182-64cf-4049-b212-f8d903d3d094",
+    "title": "Joy-Con and cartridge",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/heg-001-function-d554b6425d07-faf14c4977.svg",
+      "alt": "Nintendo Switch OLED — Joy-Con and cartridge. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.nintendo.com/ph/support/switch/modal/outline.html?width=960",
+      "sourceTitle": "Reference: Nintendo Switch support overview"
+    }
+  },
+  {
+    "productId": "227837ae-b8f7-4c65-9a95-9b1332829057",
+    "modelCode": "HEG-001",
+    "guideId": "96c54525-ddc2-4ca9-b304-93e04d5a43ec",
+    "baseVersionId": "bdd768d7-61de-4ac8-b215-b15ecb20e16a",
+    "baseVersion": 1,
+    "checkId": "67427b15-4b21-4002-9850-62a4bdb9bbdf",
+    "title": "TV mode, charging and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/heg-001-access-02efcd75b2e1-3a227bb56e.svg",
+      "alt": "Nintendo Switch OLED — TV mode, charging and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.nintendo.com/ph/support/switch/modal/outline.html?width=960",
+      "sourceTitle": "Reference: Nintendo Switch support overview"
+    }
+  },
+  {
+    "productId": "7c413b8c-40b3-473a-844c-9c7337991b8a",
+    "modelCode": "HAC-001-01",
+    "guideId": "98c656ee-e0e9-4de6-9f9e-179cdabaf35f",
+    "baseVersionId": "a964b8fe-a8b1-4e96-8e8e-84386dbcb6f7",
+    "baseVersion": 1,
+    "checkId": "d381036b-b09c-42f8-b900-2c45f49fb3b4",
+    "title": "Model and supplied dock",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/hac-001-01-identity-f5c3d8684248-241aa7e909.svg",
+      "alt": "Nintendo Switch revised model — Model and supplied dock. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/~/nintendo-switch-%E2%80%93oled-model-overview-and-faq",
+      "sourceTitle": "Reference: Nintendo Switch OLED overview and FAQ"
+    }
+  },
+  {
+    "productId": "7c413b8c-40b3-473a-844c-9c7337991b8a",
+    "modelCode": "HAC-001-01",
+    "guideId": "98c656ee-e0e9-4de6-9f9e-179cdabaf35f",
+    "baseVersionId": "a964b8fe-a8b1-4e96-8e8e-84386dbcb6f7",
+    "baseVersion": 1,
+    "checkId": "9de1841c-4c6b-4d5a-a888-5e8d0155b610",
+    "title": "Screen and touch",
+    "order": 2,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/hac-001-01-touch-8382dcdb0382-042f1849a6.svg",
+      "alt": "Nintendo Switch revised model — Screen and touch. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/~/nintendo-switch-%E2%80%93oled-model-overview-and-faq",
+      "sourceTitle": "Reference: Nintendo Switch OLED overview and FAQ"
+    }
+  },
+  {
+    "productId": "7c413b8c-40b3-473a-844c-9c7337991b8a",
+    "modelCode": "HAC-001-01",
+    "guideId": "98c656ee-e0e9-4de6-9f9e-179cdabaf35f",
+    "baseVersionId": "a964b8fe-a8b1-4e96-8e8e-84386dbcb6f7",
+    "baseVersion": 1,
+    "checkId": "4cb48a4a-6063-42f6-bcd0-a0065dab24a3",
+    "title": "Joy-Con and cartridge",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/hac-001-01-function-c5f61e76e1b2-6bc6891ca4.svg",
+      "alt": "Nintendo Switch revised model — Joy-Con and cartridge. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.nintendo.com/ph/support/switch/modal/outline.html?width=960",
+      "sourceTitle": "Reference: Nintendo Switch support overview"
+    }
+  },
+  {
+    "productId": "7c413b8c-40b3-473a-844c-9c7337991b8a",
+    "modelCode": "HAC-001-01",
+    "guideId": "98c656ee-e0e9-4de6-9f9e-179cdabaf35f",
+    "baseVersionId": "a964b8fe-a8b1-4e96-8e8e-84386dbcb6f7",
+    "baseVersion": 1,
+    "checkId": "3f8378d4-1c77-4f3f-a677-f3e22e1573b3",
+    "title": "TV mode, charging and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/hac-001-01-access-1de3d9c81d8a-6d9528cb82.svg",
+      "alt": "Nintendo Switch revised model — TV mode, charging and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.nintendo.com/ph/support/switch/modal/outline.html?width=960",
+      "sourceTitle": "Reference: Nintendo Switch support overview"
+    }
+  },
+  {
+    "productId": "6ae93598-ded9-453e-a378-8aa6a242e177",
+    "modelCode": "CFI-1200A",
+    "guideId": "aa183023-ca92-48e1-b672-5ac4f56d7fa0",
+    "baseVersionId": "e4266c42-adf1-4f3f-a184-5a349d75806c",
+    "baseVersion": 1,
+    "checkId": "da194930-52e7-4d9f-8f4f-257ed86ae887",
+    "title": "Exact edition and bundle",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/cfi-1200a-identity-aa6ca081e1fd-a2ae3bd37d.svg",
+      "alt": "PlayStation 5 CFI-1200 disc edition — Exact edition and bundle. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.playstation.com/content/dam/global_pdc/en-gb/corporate/support/manuals/ps5-docs/1200a/CFI-12XXA_PS5_Quick_Start_Guide%24en-gb.pdf",
+      "sourceTitle": "Reference: PS5 CFI-12XXA quick start guide"
+    }
+  },
+  {
+    "productId": "6ae93598-ded9-453e-a378-8aa6a242e177",
+    "modelCode": "CFI-1200A",
+    "guideId": "aa183023-ca92-48e1-b672-5ac4f56d7fa0",
+    "baseVersionId": "e4266c42-adf1-4f3f-a184-5a349d75806c",
+    "baseVersion": 1,
+    "checkId": "fb144bd1-a8d0-487d-90b8-fe8cb2a20fc1",
+    "title": "Real gameplay and controller",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/cfi-1200a-function-d534c5f4668a-8d73764a41.svg",
+      "alt": "PlayStation 5 CFI-1200 disc edition — Real gameplay and controller. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.playstation.com/content/dam/global_pdc/en-gb/corporate/support/manuals/ps5-docs/1200a/CFI-12XXA_PS5_Quick_Start_Guide%24en-gb.pdf",
+      "sourceTitle": "Reference: PS5 CFI-12XXA quick start guide"
+    }
+  },
+  {
+    "productId": "6ae93598-ded9-453e-a378-8aa6a242e177",
+    "modelCode": "CFI-1200A",
+    "guideId": "aa183023-ca92-48e1-b672-5ac4f56d7fa0",
+    "baseVersionId": "e4266c42-adf1-4f3f-a184-5a349d75806c",
+    "baseVersion": 1,
+    "checkId": "cd3fee5e-c409-44b2-8cc2-0b91fd0f3e9c",
+    "title": "Disc or digital access",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/cfi-1200a-mechanism-ba259d43be40-ed04d32efd.svg",
+      "alt": "PlayStation 5 CFI-1200 disc edition — Disc or digital access. Use normal motion only; never force a closure, card slot or disc drive.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.playstation.com/content/dam/global_pdc/en-gb/corporate/support/manuals/ps5-docs/1200a/CFI-12XXA_PS5_Quick_Start_Guide%24en-gb.pdf",
+      "sourceTitle": "Reference: PS5 CFI-12XXA quick start guide"
+    }
+  },
+  {
+    "productId": "6ae93598-ded9-453e-a378-8aa6a242e177",
+    "modelCode": "CFI-1200A",
+    "guideId": "aa183023-ca92-48e1-b672-5ac4f56d7fa0",
+    "baseVersionId": "e4266c42-adf1-4f3f-a184-5a349d75806c",
+    "baseVersion": 1,
+    "checkId": "8e657a8a-a07d-4f1a-8bd9-d59d66a7f50d",
+    "title": "Power, network and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/cfi-1200a-access-00abd3071a2c-ed947ff005.svg",
+      "alt": "PlayStation 5 CFI-1200 disc edition — Power, network and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.playstation.com/content/dam/global_pdc/en-gb/corporate/support/manuals/ps5-docs/1200a/CFI-12XXA_PS5_Quick_Start_Guide%24en-gb.pdf",
+      "sourceTitle": "Reference: PS5 CFI-12XXA quick start guide"
+    }
+  },
+  {
+    "productId": "ae95a38e-20c4-4bf8-8736-f4b424a4a80d",
+    "modelCode": "1BH204-R064-F0002",
+    "guideId": "26c5fa35-7462-404f-a816-097ff6ba8bbb",
+    "baseVersionId": "76de6026-473d-4c49-978f-e8931de34456",
+    "baseVersion": 1,
+    "checkId": "a6abf456-da50-4741-ab27-484afcacc41c",
+    "title": "Exact version and listing",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/1bh204-r064-f0002-identity-f215f325087e-8a5e8de62f.svg",
+      "alt": "Prada Re-Edition 2005 Re-Nylon black — Exact version and listing. Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.prada.com/content/dam/pradaspa/documents/re-nylon/Re-Nylon_Collection.pdf",
+      "sourceTitle": "Reference: Prada Re-Nylon collection reference"
+    }
+  },
+  {
+    "productId": "ae95a38e-20c4-4bf8-8736-f4b424a4a80d",
+    "modelCode": "1BH204-R064-F0002",
+    "guideId": "26c5fa35-7462-404f-a816-097ff6ba8bbb",
+    "baseVersionId": "76de6026-473d-4c49-978f-e8931de34456",
+    "baseVersion": 1,
+    "checkId": "06e88985-ec87-4e74-8289-9048f3ab12dd",
+    "title": "Condition in daylight",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/1bh204-r064-f0002-condition-9e7082119cfc-54ba5dca72.svg",
+      "alt": "Prada Re-Edition 2005 Re-Nylon black — Condition in daylight. Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.prada.com/content/dam/pradaspa/documents/re-nylon/Re-Nylon_Collection.pdf",
+      "sourceTitle": "Reference: Prada Re-Nylon collection reference"
+    }
+  },
+  {
+    "productId": "ae95a38e-20c4-4bf8-8736-f4b424a4a80d",
+    "modelCode": "1BH204-R064-F0002",
+    "guideId": "26c5fa35-7462-404f-a816-097ff6ba8bbb",
+    "baseVersionId": "76de6026-473d-4c49-978f-e8931de34456",
+    "baseVersion": 1,
+    "checkId": "55f61129-5692-4db5-ad2f-eb6c004cc1b9",
+    "title": "Closures and included pieces",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/1bh204-r064-f0002-mechanism-de90aa812f04-b40dcafa13.svg",
+      "alt": "Prada Re-Edition 2005 Re-Nylon black — Closures and included pieces. Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.prada.com/content/dam/pradaspa/documents/re-nylon/Re-Nylon_Collection.pdf",
+      "sourceTitle": "Reference: Prada Re-Nylon collection reference"
+    }
+  },
+  {
+    "productId": "ae95a38e-20c4-4bf8-8736-f4b424a4a80d",
+    "modelCode": "1BH204-R064-F0002",
+    "guideId": "26c5fa35-7462-404f-a816-097ff6ba8bbb",
+    "baseVersionId": "76de6026-473d-4c49-978f-e8931de34456",
+    "baseVersion": 1,
+    "checkId": "6ce5e868-f142-4acc-a067-d0bd99918a7c",
+    "title": "Evidence and unresolved risk",
+    "order": 4,
+    "concept": "provenance",
+    "image": {
+      "url": "/images/checks/1bh204-r064-f0002-provenance-abe7c1fff844-90b185dbe9.svg",
+      "alt": "Prada Re-Edition 2005 Re-Nylon black — Evidence and unresolved risk. Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "caption": "Compare the seller history with available evidence. Receipts, packaging and codes can be copied; none proves authenticity. This does not establish authenticity.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.prada.com/eu/en/info/faqs/authenticity.html",
+      "sourceTitle": "Reference: Prada authenticity FAQ"
+    }
+  },
+  {
+    "productId": "71ec6adc-61a5-4ebd-91ee-26c89ea328b3",
+    "modelCode": "SM-S911B",
+    "guideId": "88611c85-f6b4-4f20-974a-68cd88ea2efc",
+    "baseVersionId": "418180e0-aa73-43af-86e2-7885c0ffaccb",
+    "baseVersion": 1,
+    "checkId": "43e49106-bab3-4ab2-b254-4d58121f77b2",
+    "title": "Model and seller access",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/sm-s911b-identity-a4cc91addfae-5317485b24.svg",
+      "alt": "Samsung Galaxy S23 — Model and seller access. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://doc.samsungmobile.com/SM-S911B/026082230225/eng.html",
+      "sourceTitle": "Reference: Galaxy S23 SM-S911B update documentation"
+    }
+  },
+  {
+    "productId": "71ec6adc-61a5-4ebd-91ee-26c89ea328b3",
+    "modelCode": "SM-S911B",
+    "guideId": "88611c85-f6b4-4f20-974a-68cd88ea2efc",
+    "baseVersionId": "418180e0-aa73-43af-86e2-7885c0ffaccb",
+    "baseVersion": 1,
+    "checkId": "0f132e99-7c1b-415d-969c-644e15560530",
+    "title": "Interactive diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/sm-s911b-diagnostics-87c7b835e641-fe086a2249.svg",
+      "alt": "Samsung Galaxy S23 — Interactive diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10003632/",
+      "sourceTitle": "Reference: Samsung Members diagnostics"
+    }
+  },
+  {
+    "productId": "71ec6adc-61a5-4ebd-91ee-26c89ea328b3",
+    "modelCode": "SM-S911B",
+    "guideId": "88611c85-f6b4-4f20-974a-68cd88ea2efc",
+    "baseVersionId": "418180e0-aa73-43af-86e2-7885c0ffaccb",
+    "baseVersion": 1,
+    "checkId": "9aa98890-b17a-4ee6-be23-32041de1933c",
+    "title": "Display and cameras",
+    "order": 3,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/sm-s911b-display-cae574305f75-f27604664d.svg",
+      "alt": "Samsung Galaxy S23 — Display and cameras. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://doc.samsungmobile.com/SM-S911B/026082230225/eng.html",
+      "sourceTitle": "Reference: Galaxy S23 SM-S911B update documentation"
+    }
+  },
+  {
+    "productId": "71ec6adc-61a5-4ebd-91ee-26c89ea328b3",
+    "modelCode": "SM-S911B",
+    "guideId": "88611c85-f6b4-4f20-974a-68cd88ea2efc",
+    "baseVersionId": "418180e0-aa73-43af-86e2-7885c0ffaccb",
+    "baseVersion": 1,
+    "checkId": "397a1b80-121e-40a0-a33b-6bc7bc39fc04",
+    "title": "Ports, connectivity and battery",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/sm-s911b-ports-9f1230fc4bfb-6d296254b3.svg",
+      "alt": "Samsung Galaxy S23 — Ports, connectivity and battery. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://doc.samsungmobile.com/SM-S911B/026082230225/eng.html",
+      "sourceTitle": "Reference: Galaxy S23 SM-S911B update documentation"
+    }
+  },
+  {
+    "productId": "bc11fe54-290f-46a0-83b4-201a52bf4924",
+    "modelCode": "SM-S921B",
+    "guideId": "52ae2c39-13d3-42a2-a7be-b15e26cb59f3",
+    "baseVersionId": "08b88ad3-bbaf-4da8-abc0-82523a716dee",
+    "baseVersion": 1,
+    "checkId": "20690335-141d-4924-b27b-d6f4cc4d898d",
+    "title": "Model and seller access",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/sm-s921b-identity-12effc6ad9f8-ec6015d8c8.svg",
+      "alt": "Samsung Galaxy S24 — Model and seller access. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/in/business/smartphones/galaxy-s/galaxy-s24-sm-s921bzkqins/",
+      "sourceTitle": "Reference: Galaxy S24 SM-S921B"
+    }
+  },
+  {
+    "productId": "bc11fe54-290f-46a0-83b4-201a52bf4924",
+    "modelCode": "SM-S921B",
+    "guideId": "52ae2c39-13d3-42a2-a7be-b15e26cb59f3",
+    "baseVersionId": "08b88ad3-bbaf-4da8-abc0-82523a716dee",
+    "baseVersion": 1,
+    "checkId": "e1a5fe12-8c46-4418-bb26-832cfa51ec77",
+    "title": "Interactive diagnostics",
+    "order": 2,
+    "concept": "diagnostics",
+    "image": {
+      "url": "/images/checks/sm-s921b-diagnostics-3d249a88f608-7f3878edeb.svg",
+      "alt": "Samsung Galaxy S24 — Interactive diagnostics. Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "caption": "Record the actual result. A diagnostic pass is not a lifetime guarantee.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10003632/",
+      "sourceTitle": "Reference: Samsung Members diagnostics"
+    }
+  },
+  {
+    "productId": "bc11fe54-290f-46a0-83b4-201a52bf4924",
+    "modelCode": "SM-S921B",
+    "guideId": "52ae2c39-13d3-42a2-a7be-b15e26cb59f3",
+    "baseVersionId": "08b88ad3-bbaf-4da8-abc0-82523a716dee",
+    "baseVersion": 1,
+    "checkId": "99678970-003b-4969-9b42-c6d56feadc2a",
+    "title": "Display and cameras",
+    "order": 3,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/sm-s921b-display-ee08daf3e1d7-e8128ffe26.svg",
+      "alt": "Samsung Galaxy S24 — Display and cameras. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/in/business/smartphones/galaxy-s/galaxy-s24-sm-s921bzkqins/",
+      "sourceTitle": "Reference: Galaxy S24 SM-S921B"
+    }
+  },
+  {
+    "productId": "bc11fe54-290f-46a0-83b4-201a52bf4924",
+    "modelCode": "SM-S921B",
+    "guideId": "52ae2c39-13d3-42a2-a7be-b15e26cb59f3",
+    "baseVersionId": "08b88ad3-bbaf-4da8-abc0-82523a716dee",
+    "baseVersion": 1,
+    "checkId": "25d28a89-aa38-4fdf-a336-7a93aac6ea1f",
+    "title": "Ports, connectivity and battery",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/sm-s921b-ports-4a23e7fbc094-c697cf54f3.svg",
+      "alt": "Samsung Galaxy S24 — Ports, connectivity and battery. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/in/business/smartphones/galaxy-s/galaxy-s24-sm-s921bzkqins/",
+      "sourceTitle": "Reference: Galaxy S24 SM-S921B"
+    }
+  },
+  {
+    "productId": "79a58aca-dbda-493a-9efd-a234dbc03005",
+    "modelCode": "SM-X700",
+    "guideId": "89953983-376e-4282-b623-bb0fedd0c99d",
+    "baseVersionId": "5f928013-3842-4082-bdc5-590f762e1e40",
+    "baseVersion": 1,
+    "checkId": "d23ceaaa-d6db-48c9-93a0-fbc99b7d0837",
+    "title": "Base model and bundle",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/sm-x700-identity-b1db81101456-70bd9a241e.svg",
+      "alt": "Samsung Galaxy Tab S8 Wi-Fi — Base model and bundle. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/spec-sheet/Galaxy_Tab_S8_S8plus_Spec_Sheet_Wi-Fi.pdf",
+      "sourceTitle": "Reference: Galaxy Tab S8 / S8+ Wi-Fi specification sheet"
+    }
+  },
+  {
+    "productId": "79a58aca-dbda-493a-9efd-a234dbc03005",
+    "modelCode": "SM-X700",
+    "guideId": "89953983-376e-4282-b623-bb0fedd0c99d",
+    "baseVersionId": "5f928013-3842-4082-bdc5-590f762e1e40",
+    "baseVersion": 1,
+    "checkId": "34c1095f-6693-4e5c-b896-57c4bc21602a",
+    "title": "Samsung Members checks",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/sm-x700-condition-45c736eb419a-8502b2ac3a.svg",
+      "alt": "Samsung Galaxy Tab S8 Wi-Fi — Samsung Members checks. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10003632/",
+      "sourceTitle": "Reference: Samsung Members diagnostics"
+    }
+  },
+  {
+    "productId": "79a58aca-dbda-493a-9efd-a234dbc03005",
+    "modelCode": "SM-X700",
+    "guideId": "89953983-376e-4282-b623-bb0fedd0c99d",
+    "baseVersionId": "5f928013-3842-4082-bdc5-590f762e1e40",
+    "baseVersion": 1,
+    "checkId": "616a4169-2701-4d8f-a734-3a3960e84653",
+    "title": "S Pen and screen",
+    "order": 3,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/sm-x700-touch-afd08eb47bc3-5cc8893b4d.svg",
+      "alt": "Samsung Galaxy Tab S8 Wi-Fi — S Pen and screen. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/spec-sheet/Galaxy_Tab_S8_S8plus_Spec_Sheet_Wi-Fi.pdf",
+      "sourceTitle": "Reference: Galaxy Tab S8 / S8+ Wi-Fi specification sheet"
+    }
+  },
+  {
+    "productId": "79a58aca-dbda-493a-9efd-a234dbc03005",
+    "modelCode": "SM-X700",
+    "guideId": "89953983-376e-4282-b623-bb0fedd0c99d",
+    "baseVersionId": "5f928013-3842-4082-bdc5-590f762e1e40",
+    "baseVersion": 1,
+    "checkId": "192bc5ec-db66-4622-a031-38956fadc515",
+    "title": "Charging and clean handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/sm-x700-access-4306a892edab-3b81d8f41e.svg",
+      "alt": "Samsung Galaxy Tab S8 Wi-Fi — Charging and clean handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/spec-sheet/Galaxy_Tab_S8_S8plus_Spec_Sheet_Wi-Fi.pdf",
+      "sourceTitle": "Reference: Galaxy Tab S8 / S8+ Wi-Fi specification sheet"
+    }
+  },
+  {
+    "productId": "2685a33f-3b6c-4886-b9c0-15aba1117fb7",
+    "modelCode": "SM-X710",
+    "guideId": "35eb8b69-378a-43e3-ad3d-108e99938133",
+    "baseVersionId": "34c004fc-9d67-4af9-80e1-f9728386cb97",
+    "baseVersion": 1,
+    "checkId": "268c4dcf-3be2-4fcd-b925-9b6f55848f84",
+    "title": "Base model and bundle",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/sm-x710-identity-da0aecb03b4b-ad63b2acbf.svg",
+      "alt": "Samsung Galaxy Tab S9 Wi-Fi — Base model and bundle. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/mx/support/model.SM-X710NZEEMXO/",
+      "sourceTitle": "Reference: Galaxy Tab S9 SM-X710 support"
+    }
+  },
+  {
+    "productId": "2685a33f-3b6c-4886-b9c0-15aba1117fb7",
+    "modelCode": "SM-X710",
+    "guideId": "35eb8b69-378a-43e3-ad3d-108e99938133",
+    "baseVersionId": "34c004fc-9d67-4af9-80e1-f9728386cb97",
+    "baseVersion": 1,
+    "checkId": "5d659899-55d8-4a7d-bfeb-0dbffd1444a5",
+    "title": "Samsung Members checks",
+    "order": 2,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/sm-x710-condition-69c0d92799da-dbe849de3f.svg",
+      "alt": "Samsung Galaxy Tab S9 Wi-Fi — Samsung Members checks. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10003632/",
+      "sourceTitle": "Reference: Samsung Members diagnostics"
+    }
+  },
+  {
+    "productId": "2685a33f-3b6c-4886-b9c0-15aba1117fb7",
+    "modelCode": "SM-X710",
+    "guideId": "35eb8b69-378a-43e3-ad3d-108e99938133",
+    "baseVersionId": "34c004fc-9d67-4af9-80e1-f9728386cb97",
+    "baseVersion": 1,
+    "checkId": "c92ac778-b44d-49a0-a491-fcf3f2c81e50",
+    "title": "S Pen and screen",
+    "order": 3,
+    "concept": "touch",
+    "image": {
+      "url": "/images/checks/sm-x710-touch-30fd893a53f9-103c96b37f.svg",
+      "alt": "Samsung Galaxy Tab S9 Wi-Fi — S Pen and screen. Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "caption": "Use compatible input hardware and test edge areas. Settings and accessories can interfere.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/mx/support/model.SM-X710NZEEMXO/",
+      "sourceTitle": "Reference: Galaxy Tab S9 SM-X710 support"
+    }
+  },
+  {
+    "productId": "2685a33f-3b6c-4886-b9c0-15aba1117fb7",
+    "modelCode": "SM-X710",
+    "guideId": "35eb8b69-378a-43e3-ad3d-108e99938133",
+    "baseVersionId": "34c004fc-9d67-4af9-80e1-f9728386cb97",
+    "baseVersion": 1,
+    "checkId": "9a5237bb-348f-425b-a424-24308d8950d2",
+    "title": "Charging and clean handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/sm-x710-access-74be0bef5c4b-d235d9dce4.svg",
+      "alt": "Samsung Galaxy Tab S9 Wi-Fi — Charging and clean handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/mx/support/model.SM-X710NZEEMXO/",
+      "sourceTitle": "Reference: Galaxy Tab S9 SM-X710 support"
+    }
+  },
+  {
+    "productId": "f1a972c5-f05c-4ebf-acbe-f3121e650181",
+    "modelCode": "S24R350",
+    "guideId": "979db984-63b7-4841-bd65-fcd45ec3ddc5",
+    "baseVersionId": "1a18ea5b-f71e-4f58-a998-b2b30c4e6b83",
+    "baseVersion": 1,
+    "checkId": "8f3f57d3-5f72-48e6-9021-c2ae53e94f89",
+    "title": "Model, stand and screen surface",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/s24r350-identity-a54a75fd1a92-47ab149ed2.svg",
+      "alt": "Samsung S24R350 24-inch — Model, stand and screen surface. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/business/support/owners/product/sr24r-series-s24r350fhn/",
+      "sourceTitle": "Reference: Samsung S24R350FHN support"
+    }
+  },
+  {
+    "productId": "f1a972c5-f05c-4ebf-acbe-f3121e650181",
+    "modelCode": "S24R350",
+    "guideId": "979db984-63b7-4841-bd65-fcd45ec3ddc5",
+    "baseVersionId": "1a18ea5b-f71e-4f58-a998-b2b30c4e6b83",
+    "baseVersion": 1,
+    "checkId": "d737e146-1503-45fd-b99d-810a89eee1fd",
+    "title": "Display and repeatable defects",
+    "order": 2,
+    "concept": "display",
+    "image": {
+      "url": "/images/checks/s24r350-display-cb85e8da37a7-532255683e.svg",
+      "alt": "Samsung S24R350 24-inch — Display and repeatable defects. Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "caption": "Compare normal viewing distance and lighting; a diagram is not a pixel warranty.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/business/support/owners/product/sr24r-series-s24r350fhn/",
+      "sourceTitle": "Reference: Samsung S24R350FHN support"
+    }
+  },
+  {
+    "productId": "f1a972c5-f05c-4ebf-acbe-f3121e650181",
+    "modelCode": "S24R350",
+    "guideId": "979db984-63b7-4841-bd65-fcd45ec3ddc5",
+    "baseVersionId": "1a18ea5b-f71e-4f58-a998-b2b30c4e6b83",
+    "baseVersion": 1,
+    "checkId": "4c514416-b622-4865-a39f-fc9426544844",
+    "title": "Inputs and controls",
+    "order": 3,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/s24r350-ports-0067f81db4f5-62cb4ccb14.svg",
+      "alt": "Samsung S24R350 24-inch — Inputs and controls. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/business/support/owners/product/sr24r-series-s24r350fhn/",
+      "sourceTitle": "Reference: Samsung S24R350FHN support"
+    }
+  },
+  {
+    "productId": "f1a972c5-f05c-4ebf-acbe-f3121e650181",
+    "modelCode": "S24R350",
+    "guideId": "979db984-63b7-4841-bd65-fcd45ec3ddc5",
+    "baseVersionId": "1a18ea5b-f71e-4f58-a998-b2b30c4e6b83",
+    "baseVersion": 1,
+    "checkId": "e57e1398-1e59-4fb4-82c2-df49003bce47",
+    "title": "Stable power and safe setup",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/s24r350-ports-dadcb7de10b5-12e7019b0e.svg",
+      "alt": "Samsung S24R350 24-inch — Stable power and safe setup. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.samsung.com/us/business/support/owners/product/sr24r-series-s24r350fhn/",
+      "sourceTitle": "Reference: Samsung S24R350FHN support"
+    }
+  },
+  {
+    "productId": "20000000-0000-0000-0000-000000000001",
+    "modelCode": "ILCE-6400",
+    "guideId": "30000000-0000-0000-0000-000000000001",
+    "baseVersionId": "40000000-0000-0000-0000-000000000001",
+    "baseVersion": 1,
+    "checkId": "50000000-0000-0000-0000-000000000001",
+    "title": "Confirm the item and promised accessories",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/ilce-6400-identity-7c8d638eb537-cb385cb9dd.svg",
+      "alt": "Sony Alpha a6400 — Confirm the item and promised accessories. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/1810/v1/en/contents/TP0002280326.html",
+      "sourceTitle": "Reference: Sony ILCE-6400: Specifications"
+    }
+  },
+  {
+    "productId": "20000000-0000-0000-0000-000000000001",
+    "modelCode": "ILCE-6400",
+    "guideId": "30000000-0000-0000-0000-000000000001",
+    "baseVersionId": "40000000-0000-0000-0000-000000000001",
+    "baseVersion": 1,
+    "checkId": "50000000-0000-0000-0000-000000000002",
+    "title": "Check memory-card compatibility",
+    "order": 2,
+    "concept": "storage",
+    "image": {
+      "url": "/images/checks/ilce-6400-storage-63549a72fdd0-78eab69bc9.svg",
+      "alt": "Sony Alpha a6400 — Check memory-card compatibility. Match the card type to the camera manual and review saved files. Do not format seller data.",
+      "caption": "Match the card type to the camera manual and review saved files. Do not format seller data.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/1810/v1/en/contents/TP0002264633.html",
+      "sourceTitle": "Reference: Sony ILCE-6400: Memory cards that can be used"
+    }
+  },
+  {
+    "productId": "20000000-0000-0000-0000-000000000001",
+    "modelCode": "ILCE-6400",
+    "guideId": "30000000-0000-0000-0000-000000000001",
+    "baseVersionId": "40000000-0000-0000-0000-000000000001",
+    "baseVersion": 1,
+    "checkId": "50000000-0000-0000-0000-000000000003",
+    "title": "Review a photo captured on this camera",
+    "order": 3,
+    "concept": "playback",
+    "image": {
+      "url": "/images/checks/ilce-6400-playback-5efc48c7293d-349c42c3ad.svg",
+      "alt": "Sony Alpha a6400 — Review a photo captured on this camera. Check the saved file, not just the live preview. Use a known-good card and lens.",
+      "caption": "Check the saved file, not just the live preview. Use a known-good card and lens.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/1810/v1/en/contents/TP0002241285.html",
+      "sourceTitle": "Reference: Sony ILCE-6400: Playing back still images"
+    }
+  },
+  {
+    "productId": "5161c402-9b73-4264-b79d-99cf71a55ec0",
+    "modelCode": "WH-1000XM4",
+    "guideId": "0a7e6569-fe9c-4262-9ec6-50855f48eec8",
+    "baseVersionId": "1fea1178-0da8-4703-b47b-9af34ecd986c",
+    "baseVersion": 1,
+    "checkId": "a9e79275-07b0-442d-b62a-a9aea935fd9e",
+    "title": "Frame and pads",
+    "order": 1,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/wh-1000xm4-condition-f7e6f4189495-d57292d3b0.svg",
+      "alt": "Sony WH-1000XM4 — Frame and pads. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752814.html",
+      "sourceTitle": "Reference: WH-1000XM4 parts and controls"
+    }
+  },
+  {
+    "productId": "5161c402-9b73-4264-b79d-99cf71a55ec0",
+    "modelCode": "WH-1000XM4",
+    "guideId": "0a7e6569-fe9c-4262-9ec6-50855f48eec8",
+    "baseVersionId": "1fea1178-0da8-4703-b47b-9af34ecd986c",
+    "baseVersion": 1,
+    "checkId": "7b47f6f0-43e5-4e05-941e-573ec61c7d60",
+    "title": "Pairing and stereo audio",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/wh-1000xm4-function-7e8200018455-80c6e6f426.svg",
+      "alt": "Sony WH-1000XM4 — Pairing and stereo audio. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752814.html",
+      "sourceTitle": "Reference: WH-1000XM4 parts and controls"
+    }
+  },
+  {
+    "productId": "5161c402-9b73-4264-b79d-99cf71a55ec0",
+    "modelCode": "WH-1000XM4",
+    "guideId": "0a7e6569-fe9c-4262-9ec6-50855f48eec8",
+    "baseVersionId": "1fea1178-0da8-4703-b47b-9af34ecd986c",
+    "baseVersion": 1,
+    "checkId": "d787e637-b22b-41a4-8c6c-e13ad178982e",
+    "title": "Noise control modes",
+    "order": 3,
+    "concept": "noise",
+    "image": {
+      "url": "/images/checks/wh-1000xm4-noise-58ce451b6305-0e8a83c98f.svg",
+      "alt": "Sony WH-1000XM4 — Noise control modes. Use steady background sound at safe volume. ANC never means complete silence.",
+      "caption": "Use steady background sound at safe volume. ANC never means complete silence.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752814.html",
+      "sourceTitle": "Reference: WH-1000XM4 parts and controls"
+    }
+  },
+  {
+    "productId": "5161c402-9b73-4264-b79d-99cf71a55ec0",
+    "modelCode": "WH-1000XM4",
+    "guideId": "0a7e6569-fe9c-4262-9ec6-50855f48eec8",
+    "baseVersionId": "1fea1178-0da8-4703-b47b-9af34ecd986c",
+    "baseVersion": 1,
+    "checkId": "aac2989a-22a3-4962-b4e9-41dd48156077",
+    "title": "USB-C and included cable",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/wh-1000xm4-ports-0c1b07c12328-a07095d312.svg",
+      "alt": "Sony WH-1000XM4 — USB-C and included cable. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752814.html",
+      "sourceTitle": "Reference: WH-1000XM4 parts and controls"
+    }
+  },
+  {
+    "productId": "19f39ad6-9794-4681-85dc-2e1117a3d12c",
+    "modelCode": "WH-1000XM5",
+    "guideId": "fd0e995b-98f3-4808-9764-7bff3d450e96",
+    "baseVersionId": "20f2e817-d140-4bdc-8ad3-90cc69152d90",
+    "baseVersion": 1,
+    "checkId": "1ef5be4e-6c7b-425b-8c34-f88549a1f03e",
+    "title": "Frame and pads",
+    "order": 1,
+    "concept": "condition",
+    "image": {
+      "url": "/images/checks/wh-1000xm5-condition-f96dd5498cf2-410c415e93.svg",
+      "alt": "Sony WH-1000XM5 — Frame and pads. Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "caption": "Compare wear with your agreement. A visual inspection cannot prove hidden condition.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/index.html",
+      "sourceTitle": "Reference: WH-1000XM5 Help Guide"
+    }
+  },
+  {
+    "productId": "19f39ad6-9794-4681-85dc-2e1117a3d12c",
+    "modelCode": "WH-1000XM5",
+    "guideId": "fd0e995b-98f3-4808-9764-7bff3d450e96",
+    "baseVersionId": "20f2e817-d140-4bdc-8ad3-90cc69152d90",
+    "baseVersion": 1,
+    "checkId": "0bb031a5-20ff-4054-9c61-a9da86dff93a",
+    "title": "Pairing and stereo audio",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/wh-1000xm5-function-1e26373199e0-4325131be7.svg",
+      "alt": "Sony WH-1000XM5 — Pairing and stereo audio. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/index.html",
+      "sourceTitle": "Reference: WH-1000XM5 Help Guide"
+    }
+  },
+  {
+    "productId": "19f39ad6-9794-4681-85dc-2e1117a3d12c",
+    "modelCode": "WH-1000XM5",
+    "guideId": "fd0e995b-98f3-4808-9764-7bff3d450e96",
+    "baseVersionId": "20f2e817-d140-4bdc-8ad3-90cc69152d90",
+    "baseVersion": 1,
+    "checkId": "b68dfd6c-7611-431d-a38a-34613219e4f9",
+    "title": "Noise control modes",
+    "order": 3,
+    "concept": "noise",
+    "image": {
+      "url": "/images/checks/wh-1000xm5-noise-4f2446d66ccb-0865c9929f.svg",
+      "alt": "Sony WH-1000XM5 — Noise control modes. Use steady background sound at safe volume. ANC never means complete silence.",
+      "caption": "Use steady background sound at safe volume. ANC never means complete silence.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/contents/TP1000534716.html",
+      "sourceTitle": "Reference: WH-1000XM5 noise cancelling"
+    }
+  },
+  {
+    "productId": "19f39ad6-9794-4681-85dc-2e1117a3d12c",
+    "modelCode": "WH-1000XM5",
+    "guideId": "fd0e995b-98f3-4808-9764-7bff3d450e96",
+    "baseVersionId": "20f2e817-d140-4bdc-8ad3-90cc69152d90",
+    "baseVersion": 1,
+    "checkId": "40d65608-c8ec-4ad2-961e-2b7b674ca1e7",
+    "title": "USB-C and included cable",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/wh-1000xm5-ports-cb0844c19bba-d5493eea7e.svg",
+      "alt": "Sony WH-1000XM5 — USB-C and included cable. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/index.html",
+      "sourceTitle": "Reference: WH-1000XM5 Help Guide"
+    }
+  },
+  {
+    "productId": "ea1dc69d-936f-4f10-89f4-76cac604d98a",
+    "modelCode": "ZV-E10",
+    "guideId": "a106b929-30af-446b-96ba-30216cfc5160",
+    "baseVersionId": "dd8f0994-5003-4758-8c94-2aafc9214dcd",
+    "baseVersion": 1,
+    "checkId": "4ca652c7-1384-42ac-b076-217397882c40",
+    "title": "Body and included lens",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/zv-e10-identity-19264338e8bb-0ed05d4fbe.svg",
+      "alt": "Sony ZV-E10 — Body and included lens. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/2070/v1/en/index.html",
+      "sourceTitle": "Reference: Sony ZV-E10 Help Guide"
+    }
+  },
+  {
+    "productId": "ea1dc69d-936f-4f10-89f4-76cac604d98a",
+    "modelCode": "ZV-E10",
+    "guideId": "a106b929-30af-446b-96ba-30216cfc5160",
+    "baseVersionId": "dd8f0994-5003-4758-8c94-2aafc9214dcd",
+    "baseVersion": 1,
+    "checkId": "c068cfe4-6ed8-4892-abb4-fb30059216cf",
+    "title": "Focus and saved photographs",
+    "order": 2,
+    "concept": "focus",
+    "image": {
+      "url": "/images/checks/zv-e10-focus-ccc2a128b79d-d0c76c83ff.svg",
+      "alt": "Sony ZV-E10 — Focus and saved photographs. Use a known-good compatible lens/card and review saved photographs.",
+      "caption": "Use a known-good compatible lens/card and review saved photographs.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/2070/v1/en/index.html",
+      "sourceTitle": "Reference: Sony ZV-E10 Help Guide"
+    }
+  },
+  {
+    "productId": "ea1dc69d-936f-4f10-89f4-76cac604d98a",
+    "modelCode": "ZV-E10",
+    "guideId": "a106b929-30af-446b-96ba-30216cfc5160",
+    "baseVersionId": "dd8f0994-5003-4758-8c94-2aafc9214dcd",
+    "baseVersion": 1,
+    "checkId": "72b10097-a49f-4e3d-a0a7-cb2d3d2f7197",
+    "title": "Display, controls and video",
+    "order": 3,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/zv-e10-function-159f30225dd0-3fa10e6ae4.svg",
+      "alt": "Sony ZV-E10 — Display, controls and video. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/2070/v1/en/index.html",
+      "sourceTitle": "Reference: Sony ZV-E10 Help Guide"
+    }
+  },
+  {
+    "productId": "ea1dc69d-936f-4f10-89f4-76cac604d98a",
+    "modelCode": "ZV-E10",
+    "guideId": "a106b929-30af-446b-96ba-30216cfc5160",
+    "baseVersionId": "dd8f0994-5003-4758-8c94-2aafc9214dcd",
+    "baseVersion": 1,
+    "checkId": "1f801ef8-5a67-49ce-b285-c1f4d050f875",
+    "title": "Visible condition and power",
+    "order": 4,
+    "concept": "ports",
+    "image": {
+      "url": "/images/checks/zv-e10-ports-db904e035745-5e15583c9d.svg",
+      "alt": "Sony ZV-E10 — Visible condition and power. Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "caption": "Retest with a known-good cable or accessory. Do not force, scrape or probe a port.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://helpguide.sony.net/ilc/2070/v1/en/index.html",
+      "sourceTitle": "Reference: Sony ZV-E10 Help Guide"
+    }
+  },
+  {
+    "productId": "43e2d52f-5cac-441d-98ef-bb7c43e7fa0d",
+    "modelCode": "XBOX-SERIES-S-512GB",
+    "guideId": "f0b5c27c-9eb2-46ad-a29f-5c91052c89c7",
+    "baseVersionId": "d5129d0d-a4cd-4ac9-b800-f3683fecd579",
+    "baseVersion": 1,
+    "checkId": "080052bb-4e11-4c01-a3ac-51a274a17e26",
+    "title": "Exact edition and bundle",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/xbox-series-s-512gb-identity-232273d67dd3-840c4f1e90.svg",
+      "alt": "Xbox Series S 512GB Robot White — Exact edition and bundle. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "43e2d52f-5cac-441d-98ef-bb7c43e7fa0d",
+    "modelCode": "XBOX-SERIES-S-512GB",
+    "guideId": "f0b5c27c-9eb2-46ad-a29f-5c91052c89c7",
+    "baseVersionId": "d5129d0d-a4cd-4ac9-b800-f3683fecd579",
+    "baseVersion": 1,
+    "checkId": "cfedc6c6-bb2c-45df-bc87-733bf3c0219d",
+    "title": "Real gameplay and controller",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/xbox-series-s-512gb-function-8380650393e6-54238617a1.svg",
+      "alt": "Xbox Series S 512GB Robot White — Real gameplay and controller. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "43e2d52f-5cac-441d-98ef-bb7c43e7fa0d",
+    "modelCode": "XBOX-SERIES-S-512GB",
+    "guideId": "f0b5c27c-9eb2-46ad-a29f-5c91052c89c7",
+    "baseVersionId": "d5129d0d-a4cd-4ac9-b800-f3683fecd579",
+    "baseVersion": 1,
+    "checkId": "f621294b-be7c-49a8-b3df-05ddcdbec4c6",
+    "title": "Disc or digital access",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/xbox-series-s-512gb-mechanism-c8b5651c57de-428c413734.svg",
+      "alt": "Xbox Series S 512GB Robot White — Disc or digital access. Use normal motion only; never force a closure, card slot or disc drive.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "43e2d52f-5cac-441d-98ef-bb7c43e7fa0d",
+    "modelCode": "XBOX-SERIES-S-512GB",
+    "guideId": "f0b5c27c-9eb2-46ad-a29f-5c91052c89c7",
+    "baseVersionId": "d5129d0d-a4cd-4ac9-b800-f3683fecd579",
+    "baseVersion": 1,
+    "checkId": "027564c4-8744-4d79-80f5-f994920c7c88",
+    "title": "Power, network and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/xbox-series-s-512gb-access-03c14bd7747a-db63dcbe92.svg",
+      "alt": "Xbox Series S 512GB Robot White — Power, network and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/getting-started",
+      "sourceTitle": "Reference: Xbox consoles getting started"
+    }
+  },
+  {
+    "productId": "77de33dd-bb12-42b5-9b0b-30bd9ed0a007",
+    "modelCode": "XBOX-SERIES-X-1TB-DISC",
+    "guideId": "20113b5d-2b51-4657-84ce-1cff907eaf6b",
+    "baseVersionId": "0f3239ee-3f16-42f1-83d6-f90d6a09f6c9",
+    "baseVersion": 1,
+    "checkId": "5433ab34-aae4-4dd7-9a00-7a63fadd6af7",
+    "title": "Exact edition and bundle",
+    "order": 1,
+    "concept": "identity",
+    "image": {
+      "url": "/images/checks/xbox-series-x-1tb-disc-identity-95fb24e2c9c7-96d4b9ed37.svg",
+      "alt": "Xbox Series X 1TB Carbon Black — Exact edition and bundle. Match the exact model, variant and agreed accessories with the listing.",
+      "caption": "Match the exact model, variant and agreed accessories with the listing.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "77de33dd-bb12-42b5-9b0b-30bd9ed0a007",
+    "modelCode": "XBOX-SERIES-X-1TB-DISC",
+    "guideId": "20113b5d-2b51-4657-84ce-1cff907eaf6b",
+    "baseVersionId": "0f3239ee-3f16-42f1-83d6-f90d6a09f6c9",
+    "baseVersion": 1,
+    "checkId": "c661090b-505c-43f4-89e6-2866a68832db",
+    "title": "Real gameplay and controller",
+    "order": 2,
+    "concept": "function",
+    "image": {
+      "url": "/images/checks/xbox-series-x-1tb-disc-function-60ac9e324711-1c5ebd8f06.svg",
+      "alt": "Xbox Series X 1TB Carbon Black — Real gameplay and controller. Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "caption": "Use the checklist steps for this exact feature. A brief trial does not test every mode.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "77de33dd-bb12-42b5-9b0b-30bd9ed0a007",
+    "modelCode": "XBOX-SERIES-X-1TB-DISC",
+    "guideId": "20113b5d-2b51-4657-84ce-1cff907eaf6b",
+    "baseVersionId": "0f3239ee-3f16-42f1-83d6-f90d6a09f6c9",
+    "baseVersion": 1,
+    "checkId": "6e02ba3d-cbae-4cef-9a09-0e43ea9d71ee",
+    "title": "Disc or digital access",
+    "order": 3,
+    "concept": "mechanism",
+    "image": {
+      "url": "/images/checks/xbox-series-x-1tb-disc-mechanism-fa01aeea6421-f6ac53df13.svg",
+      "alt": "Xbox Series X 1TB Carbon Black — Disc or digital access. Use normal motion only; never force a closure, card slot or disc drive.",
+      "caption": "Use normal motion only; never force a closure, card slot or disc drive.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/compare/",
+      "sourceTitle": "Reference: Compare Xbox Series consoles"
+    }
+  },
+  {
+    "productId": "77de33dd-bb12-42b5-9b0b-30bd9ed0a007",
+    "modelCode": "XBOX-SERIES-X-1TB-DISC",
+    "guideId": "20113b5d-2b51-4657-84ce-1cff907eaf6b",
+    "baseVersionId": "0f3239ee-3f16-42f1-83d6-f90d6a09f6c9",
+    "baseVersion": 1,
+    "checkId": "e147493c-ddcf-4d15-bb1b-8f634b615749",
+    "title": "Power, network and handover",
+    "order": 4,
+    "concept": "access",
+    "image": {
+      "url": "/images/checks/xbox-series-x-1tb-disc-access-b1b7cd5edecd-ecf7a2534b.svg",
+      "alt": "Xbox Series X 1TB Carbon Black — Power, network and handover. Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "caption": "Stop at an unresolved account or organization prompt; ask the owner to resolve it.",
+      "kind": "DIAGRAM",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/getting-started",
+      "sourceTitle": "Reference: Xbox consoles getting started"
+    }
+  }
+]
